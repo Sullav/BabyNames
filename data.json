@@ -1,0 +1,6156 @@
+{
+  "boy_names": [
+    {
+      "name": "Aarav",
+      "meaning": "Peaceful, Calm",
+      "gender": "Boy"
+    },
+    {
+      "name": "Aashish",
+      "meaning": "Blessings",
+      "gender": "Boy"
+    },
+    {
+      "name": "Amit",
+      "meaning": "Infinite, Boundless",
+      "gender": "Boy"
+    },
+    {
+      "name": "Abhishek",
+      "meaning": "Ritualistic Bath",
+      "gender": "Boy"
+    },
+    {
+      "name": "Aryan",
+      "meaning": "Noble",
+      "gender": "Boy"
+    },
+    {
+      "name": "Alok",
+      "meaning": "Light",
+      "gender": "Boy"
+    },
+    {
+      "name": "Aditya",
+      "meaning": "Sun",
+      "gender": "Boy"
+    },
+    {
+      "name": "Ashutosh",
+      "meaning": "One who Pleases",
+      "gender": "Boy"
+    },
+    {
+      "name": "Arjun",
+      "meaning": "Bright, Shining",
+      "gender": "Boy"
+    },
+    {
+      "name": "Anirudh",
+      "meaning": "Unstoppable",
+      "gender": "Boy"
+    },
+    {
+      "name": "Akshay",
+      "meaning": "Eternal, Immortal",
+      "gender": "Boy"
+    },
+    {
+      "name": "Ayush",
+      "meaning": "Long Life",
+      "gender": "Boy"
+    },
+    {
+      "name": "Anmol",
+      "meaning": "Priceless",
+      "gender": "Boy"
+    },
+    {
+      "name": "Anish",
+      "meaning": "Supreme",
+      "gender": "Boy"
+    },
+    {
+      "name": "Arnav",
+      "meaning": "Ocean",
+      "gender": "Boy"
+    },
+    {
+      "name": "Ashwin",
+      "meaning": "Light, Horse Tamer",
+      "gender": "Boy"
+    },
+    {
+      "name": "Ankur",
+      "meaning": "Blossom",
+      "gender": "Boy"
+    },
+    {
+      "name": "Arun",
+      "meaning": "Sun",
+      "gender": "Boy"
+    },
+    {
+      "name": "Abhinav",
+      "meaning": "Novel, New",
+      "gender": "Boy"
+    },
+    {
+      "name": "Anshuman",
+      "meaning": "Sun",
+      "gender": "Boy"
+    },
+    {
+      "name": "Avinash",
+      "meaning": "Indestructible",
+      "gender": "Boy"
+    },
+    {
+      "name": "Amar",
+      "meaning": "Immortal",
+      "gender": "Boy"
+    },
+    {
+      "name": "Adarsh",
+      "meaning": "Ideal",
+      "gender": "Boy"
+    },
+    {
+      "name": "Ashbin",
+      "meaning": "Light",
+      "gender": "Boy"
+    },
+    {
+      "name": "Asim",
+      "meaning": "Limitless",
+      "gender": "Boy"
+    },
+    {
+      "name": "Babik",
+      "meaning": "Revolution",
+      "gender": "Boy"
+    },
+    {
+      "name": "Badal",
+      "meaning": "Cloud",
+      "gender": "Boy"
+    },
+    {
+      "name": "Badri",
+      "meaning": "Lord Vishnu",
+      "gender": "Boy"
+    },
+    {
+      "name": "Badrinath",
+      "meaning": "Lord of Mt.Badri",
+      "gender": "Boy"
+    },
+    {
+      "name": "Badriprasad",
+      "meaning": "Gift of Badri",
+      "gender": "Boy"
+    },
+    {
+      "name": "Bal Krishna",
+      "meaning": "Childhood of Lord Krishna",
+      "gender": "Boy"
+    },
+    {
+      "name": "Balbir",
+      "meaning": "Bal: means strength. Bir: means the great.",
+      "gender": "Boy"
+    },
+    {
+      "name": "Baldev",
+      "meaning": "God of Strength",
+      "gender": "Boy"
+    },
+    {
+      "name": "Balkrishna",
+      "meaning": "God of Strength",
+      "gender": "Boy"
+    },
+    {
+      "name": "Balkumar",
+      "meaning": "Youthful",
+      "gender": "Boy"
+    },
+    {
+      "name": "Balmani",
+      "meaning": "Young jewel",
+      "gender": "Boy"
+    },
+    {
+      "name": "Balmohan",
+      "meaning": "One who is attractive",
+      "gender": "Boy"
+    },
+    {
+      "name": "Balraj",
+      "meaning": "Strong",
+      "gender": "Boy"
+    },
+    {
+      "name": "Bardan",
+      "meaning": "Blessing; One who is Blessed",
+      "gender": "Boy"
+    },
+    {
+      "name": "Barun",
+      "meaning": "Lord of the Sea",
+      "gender": "Boy"
+    },
+    {
+      "name": "Basanta",
+      "meaning": "Spring",
+      "gender": "Boy"
+    },
+    {
+      "name": "Batsal",
+      "meaning": "Affectionate; loving",
+      "gender": "Boy"
+    },
+    {
+      "name": "Bhadra",
+      "meaning": "Blessed, prosperous, fortunate",
+      "gender": "Boy"
+    },
+    {
+      "name": "Bhairab",
+      "meaning": "A fierce manifestation of Shiva associated with annihilation.",
+      "gender": "Boy"
+    },
+    {
+      "name": "Bhaskar",
+      "meaning": "Sun",
+      "gender": "Boy"
+    },
+    {
+      "name": "Bhimsen",
+      "meaning": "As per Mahabharata, Bhimsen was the strongest of the five Pandavas; Strong, Brave",
+      "gender": "Boy"
+    },
+    {
+      "name": "Bhojraj",
+      "meaning": "An Ancient King",
+      "gender": "Boy"
+    },
+    {
+      "name": "Bhisworaj",
+      "meaning": "Water king",
+      "gender": "Boy"
+    },
+    {
+      "name": "Chaanakya",
+      "meaning": "Son of Chanak",
+      "gender": "Boy"
+    },
+    {
+      "name": "Chaitanya",
+      "meaning": "Consciousness",
+      "gender": "Boy"
+    },
+    {
+      "name": "Chakor",
+      "meaning": "A bird enamored of the moon",
+      "gender": "Boy"
+    },
+    {
+      "name": "Chakra",
+      "meaning": "Lord Vishnu’s weapon, circular",
+      "gender": "Boy"
+    },
+    {
+      "name": "Chakrapani",
+      "meaning": "Lord Vishnu",
+      "gender": "Boy"
+    },
+    {
+      "name": "Chandan",
+      "meaning": "Sandalwood",
+      "gender": "boy"
+    },
+    {
+      "name": "Chandrakumar",
+      "meaning": "The Virgin Moon",
+      "gender": "Boy"
+    },
+    {
+      "name": "Chandrachur",
+      "meaning": "Lord Shiva",
+      "gender": "Boy"
+    },
+    {
+      "name": "Chandrak",
+      "meaning": "Peacock feather",
+      "gender": "Boy"
+    },
+    {
+      "name": "Chandrashekhar",
+      "meaning": "Moon in his hair knot, Lord Shiva",
+      "gender": "Boy"
+    },
+    {
+      "name": "Chandresh",
+      "meaning": "Lord of the moon",
+      "gender": "Boy"
+    },
+    {
+      "name": "Chirantan",
+      "meaning": "Immortal",
+      "gender": "Boy"
+    },
+    {
+      "name": "Chetan",
+      "meaning": "Consciousness, life",
+      "gender": "Boy"
+    },
+    {
+      "name": "Chetraj",
+      "meaning": "Life",
+      "gender": "Boy"
+    },
+    {
+      "name": "Chirag",
+      "meaning": "Lamp",
+      "gender": "Boy"
+    },
+    {
+      "name": "Chistha",
+      "meaning": "Rivertributary",
+      "gender": "Boy"
+    },
+    {
+      "name": "Chiranjeev",
+      "meaning": "Immortal, Long lived, Lord Vishnu",
+      "gender": "Boy"
+    },
+    {
+      "name": "Chalsia",
+      "meaning": "Landing place or port, Seaport place name",
+      "gender": "Boy"
+    },
+    {
+      "name": "Chirantan",
+      "meaning": "Immortal",
+      "gender": "Boy"
+    },
+    {
+      "name": "Chirayu",
+      "meaning": "Long life, Immortal",
+      "gender": "Boy"
+    },
+    {
+      "name": "Chirush",
+      "meaning": "God",
+      "gender": "Boy"
+    },
+    {
+      "name": "Chyavan",
+      "meaning": "Name of asaint",
+      "gender": "Boy"
+    },
+    {
+      "name": "Chithesh",
+      "meaning": "Lord of the soul",
+      "gender": "Boy"
+    },
+    {
+      "name": "Chuman",
+      "meaning": "Curious",
+      "gender": "Boy"
+    },
+    {
+      "name": "Deempal",
+      "meaning": "A small indication one that forms in the cheeks when one smiles",
+      "gender": "Boy"
+    },
+    {
+      "name": "Danish",
+      "meaning": "To be clever",
+      "gender": "Boy"
+    },
+    {
+      "name": "Darma",
+      "meaning": "Duty, virtue, morality",
+      "gender": "Boy"
+    },
+    {
+      "name": "Darpak",
+      "meaning": "Kamdev, god of love",
+      "gender": "Boy"
+    },
+    {
+      "name": "Darpan",
+      "meaning": "A mirror",
+      "gender": "Boy"
+    },
+    {
+      "name": "Darsang",
+      "meaning": "Not specified",
+      "gender": "Boy"
+    },
+    {
+      "name": "Darsh",
+      "meaning": "Lord Krishna",
+      "gender": "Boy"
+    },
+    {
+      "name": "Darshal",
+      "meaning": "Prayer of God",
+      "gender": "Boy"
+    },
+    {
+      "name": "Darshan",
+      "meaning": "Perceive or vision, paying respect",
+      "gender": "Boy"
+    },
+    {
+      "name": "Darshat",
+      "meaning": "Making things visible",
+      "gender": "Boy"
+    },
+    {
+      "name": "Deepak",
+      "meaning": "Light, Lamp; Kindle",
+      "gender": "Boy"
+    },
+    {
+      "name": "Deepakraj",
+      "meaning": "Lamp, Kindle",
+      "gender": "Boy"
+    },
+    {
+      "name": "Deepan",
+      "meaning": "Lighting up",
+      "gender": "Boy"
+    },
+    {
+      "name": "Deepandra",
+      "meaning": "Lord of Light",
+      "gender": "Boy"
+    },
+    {
+      "name": "Deepankar",
+      "meaning": "One who lights lamps",
+      "gender": "Boy"
+    },
+    {
+      "name": "Deependra",
+      "meaning": "Lord of light",
+      "gender": "Boy"
+    },
+    {
+      "name": "Deependu",
+      "meaning": "Bright moon",
+      "gender": "Boy"
+    },
+    {
+      "name": "Deepit",
+      "meaning": "Lighted",
+      "gender": "Boy"
+    },
+    {
+      "name": "Deepson",
+      "meaning": "Bright; Son of Light",
+      "gender": "Boy"
+    },
+    {
+      "name": "Deeptanshu",
+      "meaning": "The sun",
+      "gender": "Boy"
+    },
+    {
+      "name": "Deepyesh",
+      "meaning": "Light of god",
+      "gender": "Boy"
+    },
+    {
+      "name": "Deewakar",
+      "meaning": "The Sun, Lord of Light",
+      "gender": "Boy"
+    },
+    {
+      "name": "Denis",
+      "meaning": "Follower of Dionysius (Greek god of wine)",
+      "gender": "Boy"
+    },
+    {
+      "name": "Dev",
+      "meaning": "God, king",
+      "gender": "Boy"
+    },
+    {
+      "name": "Devabrata",
+      "meaning": "A name of Bhisma",
+      "gender": "Boy"
+    },
+    {
+      "name": "Eashan",
+      "meaning": "Lord Shiva",
+      "gender": "Boy"
+    },
+    {
+      "name": "Echhit",
+      "meaning": "Wanted Desire",
+      "gender": "Boy"
+    },
+    {
+      "name": "Eahan",
+      "meaning": "The sun",
+      "gender": "Boy"
+    },
+    {
+      "name": "Ekaant",
+      "meaning": "Solitude",
+      "gender": "Boy"
+    },
+    {
+      "name": "Ekanga",
+      "meaning": "Single Bodied",
+      "gender": "Boy"
+    },
+    {
+      "name": "Eknath",
+      "meaning": "Poet, Saint",
+      "gender": "Boy"
+    },
+    {
+      "name": "Ekram",
+      "meaning": "Honour",
+      "gender": "Boy"
+    },
+    {
+      "name": "Eshin",
+      "meaning": "An excellent ruler",
+      "gender": "Boy"
+    },
+    {
+      "name": "Fanindra",
+      "meaning": "The cosmic serpent Shesh",
+      "gender": "Boy"
+    },
+    {
+      "name": "Furba",
+      "meaning": "Courageous, brave",
+      "gender": "Boy"
+    },
+    {
+      "name": "Furmin",
+      "meaning": "Full of light",
+      "gender": "Boy"
+    },
+    {
+      "name": "Furjan",
+      "meaning": "Shining, bright",
+      "gender": "Boy"
+    },
+    {
+      "name": "Fujan",
+      "meaning": "Bright, shining",
+      "gender": "Boy"
+    },
+    {
+      "name": "Furmin",
+      "meaning": "Full of light",
+      "gender": "Boy"
+    },
+    {
+      "name": "Furwa",
+      "meaning": "Fresh, new",
+      "gender": "Boy"
+    },
+    {
+      "name": "Furchan",
+      "meaning": "Lustrous",
+      "gender": "Boy"
+    },
+    {
+      "name": "Furnu",
+      "meaning": "Fresh, new",
+      "gender": "Boy"
+    },
+    {
+      "name": "Furnir",
+      "meaning": "Fresh, new",
+      "gender": "Boy"
+    },
+    {
+      "name": "Furjan",
+      "meaning": "Shining, bright",
+      "gender": "Boy"
+    },
+    {
+      "name": "Furmat",
+      "meaning": "Graceful, elegant",
+      "gender": "Boy"
+    },
+    {
+      "name": "Funkar",
+      "meaning": "Artist, performer",
+      "gender": "Boy"
+    },
+    {
+      "name": "Fudong",
+      "meaning": "Respected, honorable",
+      "gender": "Boy"
+    },
+    {
+      "name": "Fukran",
+      "meaning": "Wise, knowledgeable",
+      "gender": "Boy"
+    },
+    {
+      "name": "Fujan",
+      "meaning": "Bright, shining",
+      "gender": "Boy"
+    },
+    {
+      "name": "Fulkar",
+      "meaning": "Sparkling, glittering",
+      "gender": "Boy"
+    },
+    {
+      "name": "Fudin",
+      "meaning": "Artistic, creative",
+      "gender": "Boy"
+    },
+    {
+      "name": "Fulten",
+      "meaning": "Blooming, flourishing",
+      "gender": "Boy"
+    },
+    {
+      "name": "Furjan",
+      "meaning": "Shining, bright",
+      "gender": "Boy"
+    },
+    {
+      "name": "Furba",
+      "meaning": "Courageous, brave",
+      "gender": "Boy"
+    },
+    {
+      "name": "Furchin",
+      "meaning": "Lustrous",
+      "gender": "Boy"
+    },
+    {
+      "name": "Furhad",
+      "meaning": "Happiness, joy",
+      "gender": "Boy"
+    },
+    {
+      "name": "Furkan",
+      "meaning": "Distinguished, intelligent",
+      "gender": "Boy"
+    },
+    {
+      "name": "Ganesh",
+      "meaning": "Son of Lord Shiva and Parvati",
+      "gender": "Boy"
+    },
+    {
+      "name": "Gaurab",
+      "meaning": "Pride",
+      "gender": "Boy"
+    },
+    {
+      "name": "Gayendra",
+      "meaning": "Lord of a troop",
+      "gender": "Boy"
+    },
+    {
+      "name": "Giri",
+      "meaning": "Mount or from the mountain",
+      "gender": "Boy"
+    },
+    {
+      "name": "Giriraj",
+      "meaning": "King of Lord",
+      "gender": "Boy"
+    },
+    {
+      "name": "Girish",
+      "meaning": "God of mountain",
+      "gender": "Boy"
+    },
+    {
+      "name": "Gopal",
+      "meaning": "Son of Rukmani and cowherd",
+      "gender": "Boy"
+    },
+    {
+      "name": "Gagan",
+      "meaning": "Sky or heaven",
+      "gender": "Boy"
+    },
+    {
+      "name": "Gunjan",
+      "meaning": "Humming or buzzing",
+      "gender": "Boy"
+    },
+    {
+      "name": "Gautam",
+      "meaning": "Derived from the Sanskrit cow-herder or one who has attained enlightenment",
+      "gender": "Boy"
+    },
+    {
+      "name": "Gyanu",
+      "meaning": "Knowledgeable or wise",
+      "gender": "Boy"
+    },
+    {
+      "name": "Gandharva",
+      "meaning": "Celestial musicians",
+      "gender": "Boy"
+    },
+    {
+      "name": "Gyaneshowr",
+      "meaning": "Combination of knowledge and god",
+      "gender": "Boy"
+    },
+    {
+      "name": "Gokul",
+      "meaning": "A place associated with Lord Krishna",
+      "gender": "Boy"
+    },
+    {
+      "name": "Galav",
+      "meaning": "Wise person",
+      "gender": "Boy"
+    },
+    {
+      "name": "Gurashish",
+      "meaning": "Combination of teacher and blessing",
+      "gender": "Boy"
+    },
+    {
+      "name": "Gyanbahadur",
+      "meaning": "Indicating brave and knowledgeable",
+      "gender": "Boy"
+    },
+    {
+      "name": "Gyandatta",
+      "meaning": "Bestower of knowledge",
+      "gender": "Boy"
+    },
+    {
+      "name": "Garud",
+      "meaning": "Mythical bird in Hindu mythology",
+      "gender": "Boy"
+    },
+    {
+      "name": "Gandiva",
+      "meaning": "Bow belonging",
+      "gender": "Boy"
+    },
+    {
+      "name": "Gopan",
+      "meaning": "Protection",
+      "gender": "Boy"
+    },
+    {
+      "name": "Gandhik",
+      "meaning": "Fragrant",
+      "gender": "Boy"
+    },
+    {
+      "name": "Ganraj",
+      "meaning": "King of song",
+      "gender": "Boy"
+    },
+    {
+      "name": "Garjan",
+      "meaning": "Thunder",
+      "gender": "Boy"
+    },
+    {
+      "name": "Girivar",
+      "meaning": "One who holds the mountain",
+      "gender": "Boy"
+    },
+    {
+      "name": "Hemendra",
+      "meaning": "Golden Lord",
+      "gender": "Boy"
+    },
+    {
+      "name": "Harin",
+      "meaning": "Deer",
+      "gender": "Boy"
+    },
+    {
+      "name": "Hemal",
+      "meaning": "Golden",
+      "gender": "Boy"
+    },
+    {
+      "name": "Hrithik",
+      "meaning": "From the heart",
+      "gender": "Boy"
+    },
+    {
+      "name": "Harwin",
+      "meaning": "Godly friend",
+      "gender": "Boy"
+    },
+    {
+      "name": "Hruday",
+      "meaning": "Heart",
+      "gender": "Boy"
+    },
+    {
+      "name": "Harshal",
+      "meaning": "Joy, happiness",
+      "gender": "Boy"
+    },
+    {
+      "name": "Hiranmay",
+      "meaning": "Golden Deer",
+      "gender": "Boy"
+    },
+    {
+      "name": "Hareesh",
+      "meaning": "Lord Shiva",
+      "gender": "Boy"
+    },
+    {
+      "name": "Himal",
+      "meaning": "Ice, Snow mountain",
+      "gender": "Boy"
+    },
+    {
+      "name": "Hridaya",
+      "meaning": "Heart",
+      "gender": "Boy"
+    },
+    {
+      "name": "Harshid",
+      "meaning": "Always happy",
+      "gender": "Boy"
+    },
+    {
+      "name": "Haridutt",
+      "meaning": "Gift of Hari",
+      "gender": "Boy"
+    },
+    {
+      "name": "Haricharan",
+      "meaning": "Feet of the lord",
+      "gender": "Boy"
+    },
+    {
+      "name": "Harishankar",
+      "meaning": "Lord Shiva",
+      "gender": "Boy"
+    },
+    {
+      "name": "Harshil",
+      "meaning": "Full of happiness",
+      "gender": "Boy"
+    },
+    {
+      "name": "Hemish",
+      "meaning": "Lord of the Earth",
+      "gender": "Boy"
+    },
+    {
+      "name": "Hariya",
+      "meaning": "Lion",
+      "gender": "Boy"
+    },
+    {
+      "name": "Himanshu",
+      "meaning": "Moon",
+      "gender": "Boy"
+    },
+    {
+      "name": "Hithesh",
+      "meaning": "Lord of goodness",
+      "gender": "Boy"
+    },
+    {
+      "name": "Ishwar",
+      "meaning": "God, divine",
+      "gender": "Boy"
+    },
+    {
+      "name": "Indra",
+      "meaning": "King of gods",
+      "gender": "Boy"
+    },
+    {
+      "name": "Ishvara",
+      "meaning": "Supreme God",
+      "gender": "Boy"
+    },
+    {
+      "name": "Ishan",
+      "meaning": "Sun, Lord Shiva",
+      "gender": "Boy"
+    },
+    {
+      "name": "Ishant",
+      "meaning": "Sun, radiant",
+      "gender": "Boy"
+    },
+    {
+      "name": "Ishayu",
+      "meaning": "Full of strength",
+      "gender": "Boy"
+    },
+    {
+      "name": "Ishit",
+      "meaning": "One who desires",
+      "gender": "Boy"
+    },
+    {
+      "name": "Ishraq",
+      "meaning": "Sunrise",
+      "gender": "Boy"
+    },
+    {
+      "name": "Ikshan",
+      "meaning": "Sight, vision",
+      "gender": "Boy"
+    },
+    {
+      "name": "Isitha",
+      "meaning": "Favored by the moon",
+      "gender": "Boy"
+    },
+    {
+      "name": "Istak",
+      "meaning": "Love",
+      "gender": "Boy"
+    },
+    {
+      "name": "Imran",
+      "meaning": "Prosperity, flourishing",
+      "gender": "Boy"
+    },
+    {
+      "name": "Irfan",
+      "meaning": "Knowledgeable",
+      "gender": "Boy"
+    },
+    {
+      "name": "Iravat",
+      "meaning": "The sun",
+      "gender": "Boy"
+    },
+    {
+      "name": "Ishraj",
+      "meaning": "Sun",
+      "gender": "Boy"
+    },
+    {
+      "name": "Ismail",
+      "meaning": "God listens",
+      "gender": "Boy"
+    },
+    {
+      "name": "Ishana",
+      "meaning": "Lord Shiva",
+      "gender": "Boy"
+    },
+    {
+      "name": "Ishwornath",
+      "meaning": "Lord of gods",
+      "gender": "Boy"
+    },
+    {
+      "name": "Ishon",
+      "meaning": "Lord Shiva",
+      "gender": "Boy"
+    },
+    {
+      "name": "Jeevan",
+      "meaning": "Life",
+      "gender": "Boy"
+    },
+    {
+      "name": "Jalendra",
+      "meaning": "Lord of Water",
+      "gender": "Boy"
+    },
+    {
+      "name": "Jyotiraditya",
+      "meaning": "The sun's glow",
+      "gender": "Boy"
+    },
+    {
+      "name": "Jagat",
+      "meaning": "World",
+      "gender": "Boy"
+    },
+    {
+      "name": "Janak",
+      "meaning": "Father of Sita",
+      "gender": "Boy"
+    },
+    {
+      "name": "Jaswant",
+      "meaning": "Famous and brave",
+      "gender": "Boy"
+    },
+    {
+      "name": "Jivin",
+      "meaning": "To give life",
+      "gender": "Boy"
+    },
+    {
+      "name": "Jagan",
+      "meaning": "Universe",
+      "gender": "Boy"
+    },
+    {
+      "name": "Jitesh",
+      "meaning": "Lord of Victory",
+      "gender": "Boy"
+    },
+    {
+      "name": "Jayendra",
+      "meaning": "Lord of victory",
+      "gender": "Boy"
+    },
+    {
+      "name": "Jashith",
+      "meaning": "Protector",
+      "gender": "Boy"
+    },
+    {
+      "name": "Jwalant",
+      "meaning": "Luminous",
+      "gender": "Boy"
+    },
+    {
+      "name": "Jivanath",
+      "meaning": "Lord of life",
+      "gender": "Boy"
+    },
+    {
+      "name": "Jagdish",
+      "meaning": "Lord of the world",
+      "gender": "Boy"
+    },
+    {
+      "name": "Janardan",
+      "meaning": "One who gives boon",
+      "gender": "Boy"
+    },
+    {
+      "name": "Jagatbandhu",
+      "meaning": "Friend of the world",
+      "gender": "Boy"
+    },
+    {
+      "name": "Jalad",
+      "meaning": "Cloud",
+      "gender": "Boy"
+    },
+    {
+      "name": "Jivendra",
+      "meaning": "Lord of life",
+      "gender": "Boy"
+    },
+    {
+      "name": "Jagrit",
+      "meaning": "Awake",
+      "gender": "Boy"
+    },
+    {
+      "name": "Jagdishwar",
+      "meaning": "God of the universe",
+      "gender": "Boy"
+    },
+    {
+      "name": "Jyotirmay",
+      "meaning": "Full of light",
+      "gender": "Boy"
+    },
+    {
+      "name": "Jagmohan",
+      "meaning": "One who attracts the world",
+      "gender": "Boy"
+    },
+    {
+      "name": "Jalendra",
+      "meaning": "Lord of water",
+      "gender": "Boy"
+    },
+    {
+      "name": "Jagdeep",
+      "meaning": "Light of the world",
+      "gender": "Boy"
+    },
+    {
+      "name": "Jayesh",
+      "meaning": "Victorious Lord",
+      "gender": "Boy"
+    },
+    {
+      "name": "Kartik",
+      "meaning": "Name of a Hindu month, Son of Lord Shiva",
+      "gender": "Boy"
+    },
+    {
+      "name": "Kshemya",
+      "meaning": "Earth, Land",
+      "gender": "Boy"
+    },
+    {
+      "name": "Kusumakar",
+      "meaning": "Spring, Flower",
+      "gender": "Boy"
+    },
+    {
+      "name": "Kripa",
+      "meaning": "Grace, Compassion",
+      "gender": "Boy"
+    },
+    {
+      "name": "Kshirin",
+      "meaning": "Moonlight, Milky",
+      "gender": "Boy"
+    },
+    {
+      "name": "Kabir",
+      "meaning": "Great, Powerful",
+      "gender": "Boy"
+    },
+    {
+      "name": "Kamlesh",
+      "meaning": "God of Lotus, Lord Vishnu",
+      "gender": "Boy"
+    },
+    {
+      "name": "Kalyan",
+      "meaning": "Fortunate, Auspicious",
+      "gender": "Boy"
+    },
+    {
+      "name": "Kiran",
+      "meaning": "Ray of light, Sunbeam",
+      "gender": "Boy"
+    },
+    {
+      "name": "Kshetraj",
+      "meaning": "Lord of the fields",
+      "gender": "Boy"
+    },
+    {
+      "name": "Kshiraj",
+      "meaning": "King of the ocean, Varuna",
+      "gender": "Boy"
+    },
+    {
+      "name": "Krishna",
+      "meaning": "Dark, Lord Krishna",
+      "gender": "Boy"
+    },
+    {
+      "name": "Kumar",
+      "meaning": "Prince, Youth",
+      "gender": "Boy"
+    },
+    {
+      "name": "Kiranmay",
+      "meaning": "Full of Light",
+      "gender": "Boy"
+    },
+    {
+      "name": "Lagan",
+      "meaning": "Devotion",
+      "gender": "Boy"
+    },
+    {
+      "name": "Lalit",
+      "meaning": "Beautiful, Desirable",
+      "gender": "Boy"
+    },
+    {
+      "name": "Lalitaditya",
+      "meaning": "Beautiful Sun",
+      "gender": "Boy"
+    },
+    {
+      "name": "Lalitchandra",
+      "meaning": "Beautiful Moon",
+      "gender": "Boy"
+    },
+    {
+      "name": "Lalitmohan",
+      "meaning": "Beautiful and Attractive",
+      "gender": "Boy"
+    },
+    {
+      "name": "Lalitendra",
+      "meaning": "King of Beauty",
+      "gender": "Boy"
+    },
+    {
+      "name": "Lav",
+      "meaning": "Quotations",
+      "gender": "Boy"
+    },
+    {
+      "name": "Lavish",
+      "meaning": "Abundant",
+      "gender": "Boy"
+    },
+    {
+      "name": "Lavishkar",
+      "meaning": "Creative",
+      "gender": "Boy"
+    },
+    {
+      "name": "Lavleen",
+      "meaning": "Imbued with Grace",
+      "gender": "Boy"
+    },
+    {
+      "name": "Lavendra",
+      "meaning": "Lord of Lavyansh",
+      "gender": "Boy"
+    },
+    {
+      "name": "Lavitha",
+      "meaning": "Graceful",
+      "gender": "Boy"
+    },
+    {
+      "name": "Lavkush",
+      "meaning": "Son of Lord Rama",
+      "gender": "Boy"
+    },
+    {
+      "name": "Lavraj",
+      "meaning": "Son of Lord Rama",
+      "gender": "Boy"
+    },
+    {
+      "name": "Lekha",
+      "meaning": "Writing",
+      "gender": "Boy"
+    },
+    {
+      "name": "Lekhan",
+      "meaning": "Writing",
+      "gender": "Boy"
+    },
+    {
+      "name": "Lekhak",
+      "meaning": "Writer",
+      "gender": "Boy"
+    },
+    {
+      "name": "Lekhraj",
+      "meaning": "King of Writing",
+      "gender": "Boy"
+    },
+    {
+      "name": "Lina",
+      "meaning": "Tender",
+      "gender": "Boy"
+    },
+    {
+      "name": "Lokendra",
+      "meaning": "Lord of the World",
+      "gender": "Boy"
+    },
+    {
+      "name": "Lokesh",
+      "meaning": "Lord of the World",
+      "gender": "Boy"
+    },
+    {
+      "name": "Loknath",
+      "meaning": "Lord of the Universe",
+      "gender": "Boy"
+    },
+    {
+      "name": "Lokpal",
+      "meaning": "Protector of the World",
+      "gender": "Boy"
+    },
+    {
+      "name": "Lokraj",
+      "meaning": "Ruler of the World",
+      "gender": "Boy"
+    },
+    {
+      "name": "Lochan",
+      "meaning": "The eye",
+      "gender": "Boy"
+    },
+    {
+      "name": "Lomash",
+      "meaning": "A Sage",
+      "gender": "Boy"
+    },
+    {
+      "name": "Luv",
+      "meaning": "Son of Lord Rama",
+      "gender": "Boy"
+    },
+    {
+      "name": "Madhur",
+      "meaning": "Sweet, Gentle",
+      "gender": "Boy"
+    },
+    {
+      "name": "Mahavir",
+      "meaning": "Most Powerful, Great Hero",
+      "gender": "Boy"
+    },
+    {
+      "name": "Mahendra",
+      "meaning": "Lord Indra, Lord Of The Sky",
+      "gender": "Boy"
+    },
+    {
+      "name": "Mahesh",
+      "meaning": "Lord Shiva",
+      "gender": "Boy"
+    },
+    {
+      "name": "Mahir",
+      "meaning": "Expert, Skilled",
+      "gender": "Boy"
+    },
+    {
+      "name": "Mahir",
+      "meaning": "Skilled, Expert",
+      "gender": "Boy"
+    },
+    {
+      "name": "Manav",
+      "meaning": "Man, Youth",
+      "gender": "Boy"
+    },
+    {
+      "name": "Manish",
+      "meaning": "God of the Mind, Intellect",
+      "gender": "Boy"
+    },
+    {
+      "name": "Manjit",
+      "meaning": "Light of the Mind",
+      "gender": "Boy"
+    },
+    {
+      "name": "Manoj",
+      "meaning": "Born of the Mind",
+      "gender": "Boy"
+    },
+    {
+      "name": "Manoram",
+      "meaning": "Attractive, Beautiful",
+      "gender": "Boy"
+    },
+    {
+      "name": "Mangal",
+      "meaning": "Auspicious",
+      "gender": "Boy"
+    },
+    {
+      "name": "Mayank",
+      "meaning": "Moon",
+      "gender": "Boy"
+    },
+    {
+      "name": "Mayur",
+      "meaning": "Peacock",
+      "gender": "Boy"
+    },
+    {
+      "name": "Mehak",
+      "meaning": "Fragrance",
+      "gender": "Boy"
+    },
+    {
+      "name": "Milan",
+      "meaning": "Union",
+      "gender": "Boy"
+    },
+    {
+      "name": "Mithun",
+      "meaning": "Gemini, A union of people",
+      "gender": "Boy"
+    },
+    {
+      "name": "Mudit",
+      "meaning": "Happy, Satisfied, Pleased",
+      "gender": "Boy"
+    },
+    {
+      "name": "Mukesh",
+      "meaning": "Lord of the Muka",
+      "gender": "Boy"
+    },
+    {
+      "name": "Mukul",
+      "meaning": "Bud, Blossoming",
+      "gender": "Boy"
+    },
+    {
+      "name": "Nabin",
+      "meaning": "new or novel",
+      "gender": "Boy"
+    },
+    {
+      "name": "Nischal",
+      "meaning": "calm and peaceful",
+      "gender": "Boy"
+    },
+    {
+      "name": "Nirmal",
+      "meaning": "pure and clean",
+      "gender": "Boy"
+    },
+    {
+      "name": "Nirav",
+      "meaning": "quiet ",
+      "gender": "Boy"
+    },
+    {
+      "name": "Nabaraj",
+      "meaning": "King of sky",
+      "gender": "Boy"
+    },
+    {
+      "name": "Nandu",
+      "meaning": "Pleasing or delightful",
+      "gender": "Boy"
+    },
+    {
+      "name": "Nabhraj",
+      "meaning": "Rainbow",
+      "gender": "Boy"
+    },
+    {
+      "name": "Nihal",
+      "meaning": "Joyful",
+      "gender": "Boy"
+    },
+    {
+      "name": "Nishan",
+      "meaning": "Mark sign",
+      "gender": "Boy"
+    },
+    {
+      "name": "Nima",
+      "meaning": "Sun ",
+      "gender": "Boy"
+    },
+    {
+      "name": "Narendra",
+      "meaning": "King of men",
+      "gender": "Boy"
+    },
+    {
+      "name": "Nikesh",
+      "meaning": "Victorious",
+      "gender": "Boy"
+    },
+    {
+      "name": "Niranjan",
+      "meaning": "Pure",
+      "gender": "Boy"
+    },
+    {
+      "name": "Nirajan",
+      "meaning": "Offering",
+      "gender": "Boy"
+    },
+    {
+      "name": "Nadin",
+      "meaning": "Lord of rivers",
+      "gender": "Boy"
+    },
+    {
+      "name": "Narahari",
+      "meaning": "Lord Vishnu",
+      "gender": "Boy"
+    },
+    {
+      "name": "Narayan",
+      "meaning": "Lord Vishnu",
+      "gender": "Boy"
+    },
+    {
+      "name": "Nikhil",
+      "meaning": "Complete",
+      "gender": "Boy"
+    },
+    {
+      "name": "Niraj",
+      "meaning": "Lotus flower",
+      "gender": "Boy"
+    },
+    {
+      "name": "Nishant",
+      "meaning": "Dawn",
+      "gender": "Boy"
+    },
+    {
+      "name": "Nitesh",
+      "meaning": "God of law",
+      "gender": "Boy"
+    },
+    {
+      "name": "Niru",
+      "meaning": "Beauty of heavenly Goddess",
+      "gender": "Boy"
+    },
+    {
+      "name": "Nirman",
+      "meaning": "Creation and building",
+      "gender": "Boy"
+    },
+    {
+      "name": "Naval",
+      "meaning": "wonder",
+      "gender": "Boy"
+    },
+    {
+      "name": "Neelprada",
+      "meaning": "awesomeness",
+      "gender": "Boy"
+    },
+    {
+      "name": "Om",
+      "meaning": "Sacred sound, The supreme reality",
+      "gender": "Boy"
+    },
+    {
+      "name": "Ojas",
+      "meaning": "Vitality, Energy",
+      "gender": "Boy"
+    },
+    {
+      "name": "Omkar",
+      "meaning": "The sound of the sacred syllable 'Om'",
+      "gender": "Boy"
+    },
+    {
+      "name": "Ojaswin",
+      "meaning": "Energetic, Radiant",
+      "gender": "Boy"
+    },
+    {
+      "name": "Omesh",
+      "meaning": "Lord of the Om",
+      "gender": "Boy"
+    },
+    {
+      "name": "Omraj",
+      "meaning": "King of the Om",
+      "gender": "Boy"
+    },
+    {
+      "name": "Ojasvat",
+      "meaning": "Energetic, Full of vitality",
+      "gender": "Boy"
+    },
+    {
+      "name": "Oorjav",
+      "meaning": "Energy, Strength",
+      "gender": "Boy"
+    },
+    {
+      "name": "Omkaran",
+      "meaning": "One who chants Om",
+      "gender": "Boy"
+    },
+    {
+      "name": "Ogharaj",
+      "meaning": "Lord of the planets, Lord of time",
+      "gender": "Boy"
+    },
+    {
+      "name": "Oorjit",
+      "meaning": "Powerful, Energetic",
+      "gender": "Boy"
+    },
+    {
+      "name": "Ojjaswin",
+      "meaning": "Energetic, Powerful",
+      "gender": "Boy"
+    },
+    {
+      "name": "Omeshwar",
+      "meaning": "Lord of the Om",
+      "gender": "Boy"
+    },
+    {
+      "name": "Omrao",
+      "meaning": "King, Ruler",
+      "gender": "Boy"
+    },
+    {
+      "name": "Oorjaswin",
+      "meaning": "Energetic, Full of strength",
+      "gender": "Boy"
+    },
+    {
+      "name": "Ojasvi",
+      "meaning": "Energetic, Radiant",
+      "gender": "Boy"
+    },
+    {
+      "name": "Ojayit",
+      "meaning": "Vitalized, Animated",
+      "gender": "Boy"
+    },
+    {
+      "name": "Oormi",
+      "meaning": "Wave, Energy",
+      "gender": "Boy"
+    },
+    {
+      "name": "Ojaswin",
+      "meaning": "Energetic, Radiant",
+      "gender": "Boy"
+    },
+    {
+      "name": "Ojasya",
+      "meaning": "The essence of brilliance",
+      "gender": "Boy"
+    },
+    {
+      "name": "Omkarnath",
+      "meaning": "Lord of the sacred syllable 'Om'",
+      "gender": "Boy"
+    },
+    {
+      "name": "Oghrenath",
+      "meaning": "Lord of the planets, Lord of time",
+      "gender": "Boy"
+    },
+    {
+      "name": "Omkarsh",
+      "meaning": "Shining like Om",
+      "gender": "Boy"
+    },
+    {
+      "name": "Oorjit",
+      "meaning": "Energetic, Powerful",
+      "gender": "Boy"
+    },
+    {
+      "name": "Omkarsh",
+      "meaning": "Shining like Om",
+      "gender": "Boy"
+    },
+    {
+      "name": "Oormik",
+      "meaning": "Wave, Energy",
+      "gender": "Boy"
+    },
+    {
+      "name": "Oviyan",
+      "meaning": "Artist, Skilled person",
+      "gender": "Boy"
+    },
+    {
+      "name": "Oorjaswin",
+      "meaning": "Energetic, Full of strength",
+      "gender": "Boy"
+    },
+    {
+      "name": "Pradeep",
+      "meaning": "light, shine",
+      "gender": "Boy"
+    },
+    {
+      "name": "Pawan",
+      "meaning": "Wing",
+      "gender": "Boy"
+    },
+    {
+      "name": "Prashant",
+      "meaning": "Calm",
+      "gender": "Boy"
+    },
+    {
+      "name": "Paras",
+      "meaning": "Always First",
+      "gender": "Boy"
+    },
+    {
+      "name": "Pratham",
+      "meaning": "Metals to gold, Healthy, Touchstone, Iron.",
+      "gender": "Boy"
+    },
+    {
+      "name": "Prajwal",
+      "meaning": "Brightness, Flame",
+      "gender": "Boy"
+    },
+    {
+      "name": "Pramod",
+      "meaning": "Joyful, Happy",
+      "gender": "Boy"
+    },
+    {
+      "name": "Pranav",
+      "meaning": "Sacred Syllable OM",
+      "gender": "Boy"
+    },
+    {
+      "name": "Pritam",
+      "meaning": "Loved one",
+      "gender": "Boy"
+    },
+    {
+      "name": "Pritish",
+      "meaning": "Lord of Love",
+      "gender": "Boy"
+    },
+    {
+      "name": "Prem",
+      "meaning": "Love",
+      "gender": "Boy"
+    },
+    {
+      "name": "Premal",
+      "meaning": "Full of Love",
+      "gender": "Boy"
+    },
+    {
+      "name": "Prithvi",
+      "meaning": "Earth",
+      "gender": "Boy"
+    },
+    {
+      "name": "Pushkar",
+      "meaning": "Lotus",
+      "gender": "Boy"
+    },
+    {
+      "name": "Pujan",
+      "meaning": "Worship",
+      "gender": "Boy"
+    },
+    {
+      "name": "Puskar",
+      "meaning": "Lotus",
+      "gender": "Boy"
+    },
+    {
+      "name": "Pankaj",
+      "meaning": "Lotus",
+      "gender": "Boy"
+    },
+    {
+      "name": "Prahlad",
+      "meaning": "Excess of Joy",
+      "gender": "Boy"
+    },
+    {
+      "name": "Pralhad",
+      "meaning": "Bliss",
+      "gender": "Boy"
+    },
+    {
+      "name": "Prajit",
+      "meaning": "Victorious",
+      "gender": "Boy"
+    },
+    {
+      "name": "Pramud",
+      "meaning": "Delight",
+      "gender": "Boy"
+    },
+    {
+      "name": "Prasidh",
+      "meaning": "Famous",
+      "gender": "Boy"
+    },
+    {
+      "name": "Prasoon",
+      "meaning": "Flower",
+      "gender": "Boy"
+    },
+    {
+      "name": "Pratap",
+      "meaning": "Dignity",
+      "gender": "Boy"
+    },
+    {
+      "name": "Praval",
+      "meaning": "Coral",
+      "gender": "Boy"
+    },
+    {
+      "name": "Rahul",
+      "meaning": "Conqueror of All Miseries",
+      "gender": "Boy"
+    },
+    {
+      "name": "Rohan",
+      "meaning": "Ascending",
+      "gender": "Boy"
+    },
+    {
+      "name": "Rajat",
+      "meaning": "Silver",
+      "gender": "Boy"
+    },
+    {
+      "name": "Rishi",
+      "meaning": "Sage",
+      "gender": "Boy"
+    },
+    {
+      "name": "Rajiv",
+      "meaning": "Lotus",
+      "gender": "Boy"
+    },
+    {
+      "name": "Ravi",
+      "meaning": "Sun",
+      "gender": "Boy"
+    },
+    {
+      "name": "Rudra",
+      "meaning": "Lord Shiva",
+      "gender": "Boy"
+    },
+    {
+      "name": "Rajendra",
+      "meaning": "Mighty King",
+      "gender": "Boy"
+    },
+    {
+      "name": "Ritik",
+      "meaning": "Flow of Love",
+      "gender": "Boy"
+    },
+    {
+      "name": "Rajesh",
+      "meaning": "King of Kings",
+      "gender": "Boy"
+    },
+    {
+      "name": "Ritvik",
+      "meaning": "Divine Priest",
+      "gender": "Boy"
+    },
+    {
+      "name": "Rajnish",
+      "meaning": "King of Night",
+      "gender": "Boy"
+    },
+    {
+      "name": "Rupesh",
+      "meaning": "Lord of Beauty",
+      "gender": "Boy"
+    },
+    {
+      "name": "Ranjit",
+      "meaning": "Victorious in battles",
+      "gender": "Boy"
+    },
+    {
+      "name": "Rivan",
+      "meaning": "Warrior",
+      "gender": "Boy"
+    },
+    {
+      "name": "Rishit",
+      "meaning": "The Best",
+      "gender": "Boy"
+    },
+    {
+      "name": "Ridham",
+      "meaning": "Love for God",
+      "gender": "Boy"
+    },
+    {
+      "name": "Rishav",
+      "meaning": "Superior",
+      "gender": "Boy"
+    },
+    {
+      "name": "Ritansh",
+      "meaning": "Lord of Truth",
+      "gender": "Boy"
+    },
+    {
+      "name": "Rajyash",
+      "meaning": "Kingly",
+      "gender": "Boy"
+    },
+    {
+      "name": "Rupesh",
+      "meaning": " Lord of Beauty",
+      "gender": "Boy"
+    },
+    {
+      "name": "Roshit",
+      "meaning": "Brightness",
+      "gender": "Boy"
+    },
+    {
+      "name": "Rehan",
+      "meaning": "Scented Flower",
+      "gender": "Boy"
+    },
+    {
+      "name": "Reyansh",
+      "meaning": "First Ray of Sun",
+      "gender": "Boy"
+    },
+    {
+      "name": "Sahas",
+      "meaning": "Bravery",
+      "gender": "Boy"
+    },
+    {
+      "name": "Saajan",
+      "meaning": "Beloved",
+      "gender": "Boy"
+    },
+    {
+      "name": "Shambhu",
+      "meaning": "Lord Shiva",
+      "gender": "Boy"
+    },
+    {
+      "name": "Samundra",
+      "meaning": "Ocean, vastness, depth",
+      "gender": "Boy"
+    },
+    {
+      "name": "Suryaansh",
+      "meaning": "Ray of the sun",
+      "gender": "Boy"
+    },
+    {
+      "name": "Samir",
+      "meaning": "Name of a Pandava prince, courageous",
+      "gender": "Boy"
+    },
+    {
+      "name": "Siddhant",
+      "meaning": "Perfect, ideal",
+      "gender": "Boy"
+    },
+    {
+      "name": "Swastik",
+      "meaning": "Auspicious symbol, lucky",
+      "gender": "Boy"
+    },
+    {
+      "name": "Saadhav",
+      "meaning": "Pure, Loyal",
+      "gender": "Boy"
+    },
+    {
+      "name": "Saakaar",
+      "meaning": "Manifestation of God",
+      "gender": "Boy"
+    },
+    {
+      "name": "Saaras",
+      "meaning": "The Moon",
+      "gender": "Boy"
+    },
+    {
+      "name": "Saarangi",
+      "meaning": "Musical Instrument",
+      "gender": "Boy"
+    },
+    {
+      "name": "Syash",
+      "meaning": "Renown",
+      "gender": "Boy"
+    },
+    {
+      "name": "Saarthik",
+      "meaning": "Noble",
+      "gender": "Boy"
+    },
+    {
+      "name": "Sabal",
+      "meaning": "With strength",
+      "gender": "Boy"
+    },
+    {
+      "name": "Saaz",
+      "meaning": "Breath; Melody",
+      "gender": "Boy"
+    },
+    {
+      "name": "Swayam",
+      "meaning": "Self-made",
+      "gender": "Boy"
+    },
+    {
+      "name": "Samarpan",
+      "meaning": "Devotion",
+      "gender": "Boy"
+    },
+    {
+      "name": "Sohanbir",
+      "meaning": "Golden warrior, Brave",
+      "gender": "Boy"
+    },
+    {
+      "name": "Sachet",
+      "meaning": "Consciousness",
+      "gender": "Boy"
+    },
+    {
+      "name": "Sachin",
+      "meaning": "True, Pure",
+      "gender": "Boy"
+    },
+    {
+      "name": "Sadgun",
+      "meaning": "Virtues",
+      "gender": "Boy"
+    },
+    {
+      "name": "Safal",
+      "meaning": "Succeed",
+      "gender": "Boy"
+    },
+    {
+      "name": "Sanish",
+      "meaning": "The Sun or brilliant boy",
+      "gender": "Boy"
+    },
+    {
+      "name": "SriKrishna",
+      "meaning": "Lord Krishna",
+      "gender": "Boy"
+    },
+    {
+      "name": "Sailaj",
+      "meaning": "Full of Stones",
+      "gender": "Boy"
+    },
+    {
+      "name": "Sajeet",
+      "meaning": "Alive Forever",
+      "gender": "Boy"
+    },
+    {
+      "name": "sanjit",
+      "meaning": "one who is always victorious",
+      "gender": "Boy"
+    },
+    {
+      "name": "Tej",
+      "meaning": "Bright",
+      "gender": "Boy"
+    },
+    {
+      "name": "Tarun",
+      "meaning": "Young, Youth",
+      "gender": "Boy"
+    },
+    {
+      "name": "Tejas",
+      "meaning": "Brilliance",
+      "gender": "Boy"
+    },
+    {
+      "name": "Tarang",
+      "meaning": "Wave",
+      "gender": "Boy"
+    },
+    {
+      "name": "Taran",
+      "meaning": "Raft, heaven",
+      "gender": "Boy"
+    },
+    {
+      "name": "Taral",
+      "meaning": "Liquid",
+      "gender": "Boy"
+    },
+    {
+      "name": "Tapan",
+      "meaning": "Sun, Summer",
+      "gender": "Boy"
+    },
+    {
+      "name": "Tika",
+      "meaning": "Auspicious symbol in the forehead",
+      "gender": "Boy"
+    },
+    {
+      "name": "Tilak",
+      "meaning": "Ornamental mark on forehead",
+      "gender": "Boy"
+    },
+    {
+      "name": "Tirtha",
+      "meaning": "Holy place",
+      "gender": "Boy"
+    },
+    {
+      "name": "Trilok",
+      "meaning": "The three worlds (heaven, earth, hell)",
+      "gender": "Boy"
+    },
+    {
+      "name": "Tenzing",
+      "meaning": "Holder of Buddha Dharma",
+      "gender": "Boy"
+    },
+    {
+      "name": "Tashi",
+      "meaning": "Auspiciousness",
+      "gender": "Boy"
+    },
+    {
+      "name": "Trishan",
+      "meaning": "Triple weapon",
+      "gender": "Boy"
+    },
+    {
+      "name": "Tejpal",
+      "meaning": "Protector of light",
+      "gender": "Boy"
+    },
+    {
+      "name": "Tanush",
+      "meaning": "Charming",
+      "gender": "Boy"
+    },
+    {
+      "name": "Thakur",
+      "meaning": "Master",
+      "gender": "Boy"
+    },
+    {
+      "name": "Tulachan",
+      "meaning": "Coolness of the moon",
+      "gender": "Boy"
+    },
+    {
+      "name": "Tapendra",
+      "meaning": "Lord of meditation",
+      "gender": "Boy"
+    },
+    {
+      "name": "Tushar",
+      "meaning": "Snow, Frost",
+      "gender": "Boy"
+    },
+    {
+      "name": "Tulya",
+      "meaning": "Comparable",
+      "gender": "Boy"
+    },
+    {
+      "name": "Tanmay",
+      "meaning": "Engrossed or Absorbed in meditatione",
+      "gender": "Boy"
+    },
+    {
+      "name": "Tsering",
+      "meaning": "Long life or blessings in Tibetan origin",
+      "gender": "Boy"
+    },
+    {
+      "name": "Tanish",
+      "meaning": "Ambition",
+      "gender": "Boy"
+    },
+    {
+      "name": "Tanvik",
+      "meaning": "Pure",
+      "gender": "Boy"
+    },
+    {
+      "name": "Ujwal",
+      "meaning": "Bright",
+      "gender": "Boy"
+    },
+    {
+      "name": "Umesh",
+      "meaning": "Lord Shiva",
+      "gender": "Boy"
+    },
+    {
+      "name": "Upendra",
+      "meaning": "Brother of Haven King Indra",
+      "gender": "Boy"
+    },
+    {
+      "name": "Utsav",
+      "meaning": "Celebration",
+      "gender": "Boy"
+    },
+    {
+      "name": "Uttam",
+      "meaning": "Best",
+      "gender": "Boy"
+    },
+    {
+      "name": "Udadhi",
+      "meaning": "Ocean",
+      "gender": "Boy"
+    },
+    {
+      "name": "Udar",
+      "meaning": "Generous, Liberal",
+      "gender": "Boy"
+    },
+    {
+      "name": "Udbal",
+      "meaning": "Mighty",
+      "gender": "Boy"
+    },
+    {
+      "name": "Uddip",
+      "meaning": "Giving Light",
+      "gender": "Boy"
+    },
+    {
+      "name": "Udyaan",
+      "meaning": "Garden",
+      "gender": "Boy"
+    },
+    {
+      "name": "Ugam",
+      "meaning": "Rising Upward",
+      "gender": "Boy"
+    },
+    {
+      "name": "Ujit",
+      "meaning": "One who Won Every Time",
+      "gender": "Boy"
+    },
+    {
+      "name": "Udarak",
+      "meaning": "Noble",
+      "gender": "Boy"
+    },
+    {
+      "name": "Umeshwar",
+      "meaning": "Lord Shiva",
+      "gender": "Boy"
+    },
+    {
+      "name": "Ulkesh",
+      "meaning": "Moon",
+      "gender": "Boy"
+    },
+    {
+      "name": "Ulpesh",
+      "meaning": "Tiny",
+      "gender": "Boy"
+    },
+    {
+      "name": "Unat",
+      "meaning": "Progress",
+      "gender": "Boy"
+    },
+    {
+      "name": "Unshul",
+      "meaning": "Sun",
+      "gender": "Boy"
+    },
+    {
+      "name": "Upadesh",
+      "meaning": "Advice",
+      "gender": "Boy"
+    },
+    {
+      "name": "Upahar",
+      "meaning": "Gift",
+      "gender": "Boy"
+    },
+    {
+      "name": "Upajit",
+      "meaning": "To Acquire by Victory",
+      "gender": "Boy"
+    },
+    {
+      "name": "Upash",
+      "meaning": "Fasting",
+      "gender": "Boy"
+    },
+    {
+      "name": "Urajit",
+      "meaning": "Possesses, Energised",
+      "gender": "Boy"
+    },
+    {
+      "name": "Uttar",
+      "meaning": "North, Answer",
+      "gender": "Boy"
+    },
+    {
+      "name": "Utkarsh",
+      "meaning": "Prosperityr",
+      "gender": "Boy"
+    },
+    {
+      "name": "Utsang",
+      "meaning": "Embrace",
+      "gender": "Boy"
+    },
+    {
+      "name": "Ujwal",
+      "meaning": "Bright",
+      "gender": "Boy"
+    },
+    {
+      "name": "Umesh",
+      "meaning": "Lord Shiva",
+      "gender": "Boy"
+    },
+    {
+      "name": "Upendra",
+      "meaning": "Brother of Haven King Indra",
+      "gender": "Boy"
+    },
+    {
+      "name": "Utsav",
+      "meaning": "Celebration",
+      "gender": "Boy"
+    },
+    {
+      "name": "Uttam",
+      "meaning": "Best",
+      "gender": "Boy"
+    },
+    {
+      "name": "Udadhi",
+      "meaning": "Ocean",
+      "gender": "Boy"
+    },
+    {
+      "name": "Udar",
+      "meaning": "Generous, Liberal",
+      "gender": "Boy"
+    },
+    {
+      "name": "Udbal",
+      "meaning": "Mighty",
+      "gender": "Boy"
+    },
+    {
+      "name": "Uddip",
+      "meaning": "Giving Light",
+      "gender": "Boy"
+    },
+    {
+      "name": "Udyaan",
+      "meaning": "Garden",
+      "gender": "Boy"
+    },
+    {
+      "name": "Ugam",
+      "meaning": "Rising Upward",
+      "gender": "Boy"
+    },
+    {
+      "name": "Ujit",
+      "meaning": "One who Won Every Time",
+      "gender": "Boy"
+    },
+    {
+      "name": "Udarak",
+      "meaning": "Noble",
+      "gender": "Boy"
+    },
+    {
+      "name": "Umeshwar",
+      "meaning": "Lord Shiva",
+      "gender": "Boy"
+    },
+    {
+      "name": "Ulkesh",
+      "meaning": "Moon",
+      "gender": "Boy"
+    },
+    {
+      "name": "Ulpesh",
+      "meaning": "Tiny",
+      "gender": "Boy"
+    },
+    {
+      "name": "Unat",
+      "meaning": "Progress",
+      "gender": "Boy"
+    },
+    {
+      "name": "Unshul",
+      "meaning": "Sun",
+      "gender": "Boy"
+    },
+    {
+      "name": "Upadesh",
+      "meaning": "Advice",
+      "gender": "Boy"
+    },
+    {
+      "name": "Upahar",
+      "meaning": "Gift",
+      "gender": "Boy"
+    },
+    {
+      "name": "Upajit",
+      "meaning": "To Acquire by Victory",
+      "gender": "Boy"
+    },
+    {
+      "name": "Upash",
+      "meaning": "Fasting",
+      "gender": "Boy"
+    },
+    {
+      "name": "Urajit",
+      "meaning": "Possesses, Energised",
+      "gender": "Boy"
+    },
+    {
+      "name": "Uttar",
+      "meaning": "North, Answer",
+      "gender": "Boy"
+    },
+    {
+      "name": "Utkarsh",
+      "meaning": "Prosperityr",
+      "gender": "Boy"
+    },
+    {
+      "name": "Utsang",
+      "meaning": "Embrace",
+      "gender": "Boy"
+    },
+    {
+      "name": "Ujwal",
+      "meaning": "Bright",
+      "gender": "Boy"
+    },
+    {
+      "name": "Umesh",
+      "meaning": "Lord Shiva",
+      "gender": "Boy"
+    },
+    {
+      "name": "Upendra",
+      "meaning": "Brother of Haven King Indra",
+      "gender": "Boy"
+    },
+    {
+      "name": "Utsav",
+      "meaning": "Celebration",
+      "gender": "Boy"
+    },
+    {
+      "name": "Uttam",
+      "meaning": "Best",
+      "gender": "Boy"
+    },
+    {
+      "name": "Udadhi",
+      "meaning": "Ocean",
+      "gender": "Boy"
+    },
+    {
+      "name": "Udar",
+      "meaning": "Generous, Liberal",
+      "gender": "Boy"
+    },
+    {
+      "name": "Udbal",
+      "meaning": "Mighty",
+      "gender": "Boy"
+    },
+    {
+      "name": "Uddip",
+      "meaning": "Giving Light",
+      "gender": "Boy"
+    },
+    {
+      "name": "Udyaan",
+      "meaning": "Garden",
+      "gender": "Boy"
+    },
+    {
+      "name": "Ugam",
+      "meaning": "Rising Upward",
+      "gender": "Boy"
+    },
+    {
+      "name": "Ujit",
+      "meaning": "One who Won Every Time",
+      "gender": "Boy"
+    },
+    {
+      "name": "Udarak",
+      "meaning": "Noble",
+      "gender": "Boy"
+    },
+    {
+      "name": "Umeshwar",
+      "meaning": "Lord Shiva",
+      "gender": "Boy"
+    },
+    {
+      "name": "Ulkesh",
+      "meaning": "Moon",
+      "gender": "Boy"
+    },
+    {
+      "name": "Ulpesh",
+      "meaning": "Tiny",
+      "gender": "Boy"
+    },
+    {
+      "name": "Unat",
+      "meaning": "Progress",
+      "gender": "Boy"
+    },
+    {
+      "name": "Unshul",
+      "meaning": "Sun",
+      "gender": "Boy"
+    },
+    {
+      "name": "Upadesh",
+      "meaning": "Advice",
+      "gender": "Boy"
+    },
+    {
+      "name": "Upahar",
+      "meaning": "Gift",
+      "gender": "Boy"
+    },
+    {
+      "name": "Upajit",
+      "meaning": "To Acquire by Victory",
+      "gender": "Boy"
+    },
+    {
+      "name": "Upash",
+      "meaning": "Fasting",
+      "gender": "Boy"
+    },
+    {
+      "name": "Urajit",
+      "meaning": "Possesses, Energised",
+      "gender": "Boy"
+    },
+    {
+      "name": "Uttar",
+      "meaning": "North, Answer",
+      "gender": "Boy"
+    },
+    {
+      "name": "Utkarsh",
+      "meaning": "Prosperityr",
+      "gender": "Boy"
+    },
+    {
+      "name": "Utsang",
+      "meaning": "Embrace",
+      "gender": "Boy"
+    },
+    {
+      "name": "Vaibhav",
+      "meaning": "Prosperity",
+      "gender": "Boy"
+    },
+    {
+      "name": "Vikram",
+      "meaning": "Bravery",
+      "gender": "Boy"
+    },
+    {
+      "name": "Vinay",
+      "meaning": "Modesty",
+      "gender": "Boy"
+    },
+    {
+      "name": "Vishal",
+      "meaning": "Grand, magnificent",
+      "gender": "Boy"
+    },
+    {
+      "name": "Vivek",
+      "meaning": "Discernment",
+      "gender": "Boy"
+    },
+    {
+      "name": "Vimal",
+      "meaning": "Pure",
+      "gender": "Boy"
+    },
+    {
+      "name": "Vishnu",
+      "meaning": "The preserver",
+      "gender": "Boy"
+    },
+    {
+      "name": "Varun",
+      "meaning": "God of water",
+      "gender": "Boy"
+    },
+    {
+      "name": "Vijay",
+      "meaning": "Victorious",
+      "gender": "Boy"
+    },
+    {
+      "name": "Vijayant",
+      "meaning": "Conqueror",
+      "gender": "Boy"
+    },
+    {
+      "name": "Vidhur",
+      "meaning": "Wise",
+      "gender": "Boy"
+    },
+    {
+      "name": "Veerendra",
+      "meaning": "Brave lord",
+      "gender": "Boy"
+    },
+    {
+      "name": "Vimalakirti",
+      "meaning": "Pure reputation",
+      "gender": "Boy"
+    },
+    {
+      "name": "Vikhyat",
+      "meaning": "Famous",
+      "gender": "Boy"
+    },
+    {
+      "name": "Vibhash",
+      "meaning": "Brightness",
+      "gender": "Boy"
+    },
+    {
+      "name": "Vismay",
+      "meaning": "Wonder",
+      "gender": "Boy"
+    },
+    {
+      "name": "Vibudh",
+      "meaning": "Knowledgeable",
+      "gender": "Boy"
+    },
+    {
+      "name": "Vinodak",
+      "meaning": "Pleasure",
+      "gender": "Boy"
+    },
+    {
+      "name": "Vrajendra",
+      "meaning": "Lord of Vraja",
+      "gender": "Boy"
+    },
+    {
+      "name": "Vijval",
+      "meaning": "Intelligent",
+      "gender": "Boy"
+    },
+    {
+      "name": "Vatsin",
+      "meaning": "Lord Vishnu",
+      "gender": "Boy"
+    },
+    {
+      "name": "Vihanga",
+      "meaning": "Bird",
+      "gender": "Boy"
+    },
+    {
+      "name": "Vrishabha",
+      "meaning": "Sacred bull",
+      "gender": "Boy"
+    },
+    {
+      "name": "Vibhuti",
+      "meaning": "Divine power",
+      "gender": "Boy"
+    },
+    {
+      "name": "Veer",
+      "meaning": "Brave",
+      "gender": "Boy"
+    },
+    {
+      "name": "Vasant",
+      "meaning": "Spring",
+      "gender": "Boy"
+    },
+    {
+      "name": "Vikrant",
+      "meaning": "Powerful",
+      "gender": "Boy"
+    },
+    {
+      "name": "Wahid",
+      "meaning": "Single",
+      "gender": "Boy"
+    },
+    {
+      "name": "Wadee",
+      "meaning": "Calm peace",
+      "gender": "Boy"
+    },
+    {
+      "name": "Wafir",
+      "meaning": "Plenty",
+      "gender": "Boy"
+    },
+    {
+      "name": "Wahab",
+      "meaning": "Gift large-hearted",
+      "gender": "Boy"
+    },
+    {
+      "name": "Wajid",
+      "meaning": "Inventor, Someone who perceives",
+      "gender": "Boy"
+    },
+    {
+      "name": "Wali",
+      "meaning": "Governor, Protector",
+      "gender": "Boy"
+    },
+    {
+      "name": "Wasim",
+      "meaning": "Graceful, Handsome",
+      "gender": "Boy"
+    },
+    {
+      "name": "Widur",
+      "meaning": "Strong",
+      "gender": "Boy"
+    },
+    {
+      "name": "Wichit",
+      "meaning": "Heavenly Power",
+      "gender": "Boy"
+    },
+    {
+      "name": "Wihan",
+      "meaning": "God's Grace",
+      "gender": "Boy"
+    },
+    {
+      "name": "Wimal",
+      "meaning": "Pure",
+      "gender": "Boy"
+    },
+    {
+      "name": "Winay",
+      "meaning": "Victory",
+      "gender": "Boy"
+    },
+    {
+      "name": "Wishal",
+      "meaning": "Lord Shiva",
+      "gender": "Boy"
+    },
+    {
+      "name": "Wokar",
+      "meaning": "Guide",
+      "gender": "Boy"
+    },
+    {
+      "name": "Wren",
+      "meaning": "Small Bird",
+      "gender": "Boy"
+    },
+    {
+      "name": "Wrisab",
+      "meaning": "King",
+      "gender": "Boy"
+    },
+    {
+      "name": "Wright",
+      "meaning": "Craftsman",
+      "gender": "Boy"
+    },
+    {
+      "name": "Wynn",
+      "meaning": "Friend",
+      "gender": "Boy"
+    },
+    {
+      "name": "Wardan",
+      "meaning": "Lord Shiva",
+      "gender": "Boy"
+    },
+    {
+      "name": "Waihab",
+      "meaning": "Donor",
+      "gender": "Boy"
+    },
+    {
+      "name": "Wamaksh",
+      "meaning": "Lord Rama",
+      "gender": "Boy"
+    },
+    {
+      "name": "Wamil",
+      "meaning": "Beautiful",
+      "gender": "Boy"
+    },
+    {
+      "name": "Wamit",
+      "meaning": "Lord Rama",
+      "gender": "Boy"
+    },
+    {
+      "name": "Wanith",
+      "meaning": "Beautiful",
+      "gender": "Boy"
+    },
+    {
+      "name": "Wasant",
+      "meaning": "Spring",
+      "gender": "Boy"
+    },
+    {
+      "name": "Xitiz",
+      "meaning": "East",
+      "gender": "Boy"
+    },
+    {
+      "name": "Yatharth",
+      "meaning": "Truthful, reality",
+      "gender": "Boy"
+    },
+    {
+      "name": "Yugal",
+      "meaning": "Pair, couple",
+      "gender": "Boy"
+    },
+    {
+      "name": "Yashas",
+      "meaning": "Fame, glory, success",
+      "gender": "Boy"
+    },
+    {
+      "name": "Yug",
+      "meaning": "Era, age, period",
+      "gender": "Boy"
+    },
+    {
+      "name": "Yudhishthir",
+      "meaning": "Eldest Pandava, steady in battle",
+      "gender": "Boy"
+    },
+    {
+      "name": "Yashwin",
+      "meaning": "Victorious, successful",
+      "gender": "Boy"
+    },
+    {
+      "name": "Yogesh",
+      "meaning": "Lord of yoga",
+      "gender": "Boy"
+    },
+    {
+      "name": "Yajat",
+      "meaning": "Lord Shiva",
+      "gender": "Boy"
+    },
+    {
+      "name": "Yashomukh",
+      "meaning": "Face of fame",
+      "gender": "Boy"
+    },
+    {
+      "name": "Yajur",
+      "meaning": "A Vedic scripture",
+      "gender": "Boy"
+    },
+    {
+      "name": "Yogith",
+      "meaning": "One who practices yoga",
+      "gender": "Boy"
+    },
+    {
+      "name": "Yashovardhan",
+      "meaning": "One who enhances glory",
+      "gender": "Boy"
+    },
+    {
+      "name": "Yogiraj",
+      "meaning": "King of yoga",
+      "gender": "Boy"
+    },
+    {
+      "name": "Yugraj",
+      "meaning": "King of pairs",
+      "gender": "Boy"
+    },
+    {
+      "name": "Yashodhan",
+      "meaning": "One who possesses fame",
+      "gender": "Boy"
+    },
+    {
+      "name": "Yudhir",
+      "meaning": "Brave, courageous",
+      "gender": "Boy"
+    },
+    {
+      "name": "Yuvan",
+      "meaning": "Youthful, young",
+      "gender": "Boy"
+    },
+    {
+      "name": "Yogin",
+      "meaning": "One who practices yoga",
+      "gender": "Boy"
+    },
+    {
+      "name": "Yashank",
+      "meaning": "One with a glorious mark",
+      "gender": "Boy"
+    },
+    {
+      "name": "Yatharth",
+      "meaning": "True, real, accurate",
+      "gender": "Boy"
+    },
+    {
+      "name": "Yuvanesh",
+      "meaning": "Lord of youth",
+      "gender": "Boy"
+    },
+    {
+      "name": "Yashvardhan",
+      "meaning": "One who increases glory",
+      "gender": "Boy"
+    },
+    {
+      "name": "Yuthan",
+      "meaning": "New, fresh",
+      "gender": "Boy"
+    },
+    {
+      "name": "Zankar",
+      "meaning": "Melodious voice",
+      "gender": "Boy"
+    },
+    {
+      "name": "Zaral",
+      "meaning": "Easy; Nobleman",
+      "gender": "Boy"
+    },
+    {
+      "name": "Zakhil",
+      "meaning": "Auspicious",
+      "gender": "Boy"
+    },
+    {
+      "name": "Zico",
+      "meaning": "Fountain",
+      "gender": "Boy"
+    },
+    {
+      "name": "Zebidiah",
+      "meaning": "Purple Panguin Cheerios",
+      "gender": "Boy"
+    },
+    {
+      "name": "Zeel",
+      "meaning": "Silent lake; Jharna",
+      "gender": "Boy"
+    },
+    {
+      "name": "Zehan",
+      "meaning": "Brightness; Whiteness",
+      "gender": "Boy"
+    },
+    {
+      "name": "Zephyr",
+      "meaning": "West Wind",
+      "gender": "Boy"
+    },
+    {
+      "name": "Zevesh",
+      "meaning": "Strong; Powerful",
+      "gender": "Boy"
+    },
+    {
+      "name": "Zirak",
+      "meaning": "Waterfall",
+      "gender": "Boy"
+    },
+    {
+      "name": "Ziven",
+      "meaning": "Full of Life; Vigorous and Alive",
+      "gender": "Boy"
+    },
+    {
+      "name": "Zohan",
+      "meaning": "Gift from God",
+      "gender": "Boy"
+    },
+    {
+      "name": "Zohar",
+      "meaning": "Light",
+      "gender": "Boy"
+    },
+    {
+      "name": "Zoravar",
+      "meaning": "Brave; Mighty",
+      "gender": "Boy"
+    },
+    {
+      "name": "Zubhatmaka",
+      "meaning": "Charming",
+      "gender": "Boy"
+    },
+    {
+      "name": "Zudora",
+      "meaning": "Explore, Provider of Food",
+      "gender": "Boy"
+    },
+    {
+      "name": "Zueinah",
+      "meaning": "Lucky Number; Stone; Metal; Colour",
+      "gender": "Boy"
+    },
+    {
+      "name": "Zunka",
+      "meaning": "Cheese",
+      "gender": "Boy"
+    },
+    {
+      "name": "Zorion",
+      "meaning": "Happiness",
+      "gender": "Boy"
+    },
+    {
+      "name": "Zephyrion",
+      "meaning": "Wind god",
+      "gender": "Boy"
+    },
+    {
+      "name": "Zavion",
+      "meaning": "Gracious",
+      "gender": "Boy"
+    },
+    {
+      "name": "Zacarias",
+      "meaning": "God remembers",
+      "gender": "Boy"
+    },
+    {
+      "name": "Zymir",
+      "meaning": "Princes",
+      "gender": "Boy"
+    },
+    {
+      "name": "Zephyrian",
+      "meaning": "Born of the west wind",
+      "gender": "Boy"
+    },
+    {
+      "name": "Zadeer",
+      "meaning": "Novel; New",
+      "gender": "Boy"
+    }
+  ],
+  "girl_names": [
+    {
+      "name": "Alisha",
+      "meaning": "Protected by god",
+      "gender": "Girl"
+    },
+    {
+      "name": "Aashika",
+      "meaning": "Lovable",
+      "gender": "Girl"
+    },
+    {
+      "name": "Aditi",
+      "meaning": "Mother of the Gods",
+      "gender": "Girl"
+    },
+    {
+      "name": "Akriti",
+      "meaning": "Shape",
+      "gender": "Girl"
+    },
+    {
+      "name": "Anisha",
+      "meaning": "Uninterrupted",
+      "gender": "Girl"
+    },
+    {
+      "name": "Anika",
+      "meaning": "Goddess Durga",
+      "gender": "Girl"
+    },
+    {
+      "name": "Ayusha",
+      "meaning": "Long Life",
+      "gender": "Girl"
+    },
+    {
+      "name": "Aaradhya",
+      "meaning": "Worshipped",
+      "gender": "Girl"
+    },
+    {
+      "name": "Aashna",
+      "meaning": "Beloved",
+      "gender": "Girl"
+    },
+    {
+      "name": "Amrita",
+      "meaning": "Immortality",
+      "gender": "Girl"
+    },
+    {
+      "name": "Anamika",
+      "meaning": "Ring Finger",
+      "gender": "Girl"
+    },
+    {
+      "name": "Apeksha",
+      "meaning": "Expectation",
+      "gender": "Girl"
+    },
+    {
+      "name": "Alina",
+      "meaning": "Beautiful",
+      "gender": "Girl"
+    },
+    {
+      "name": "Aadya",
+      "meaning": "First Power",
+      "gender": "Girl"
+    },
+    {
+      "name": "Aarohi",
+      "meaning": "Musical Note",
+      "gender": "Girl"
+    },
+    {
+      "name": "Anjali",
+      "meaning": "Gift",
+      "gender": "Girl"
+    },
+    {
+      "name": "Amisha",
+      "meaning": "Beautiful",
+      "gender": "Girl"
+    },
+    {
+      "name": "Aradhana",
+      "meaning": "Worship",
+      "gender": "Girl"
+    },
+    {
+      "name": "Ashwika",
+      "meaning": "Good Thoughts",
+      "gender": "Girl"
+    },
+    {
+      "name": "Aisha",
+      "meaning": "Alive",
+      "gender": "Girl"
+    },
+    {
+      "name": "Ananya",
+      "meaning": "Unique",
+      "gender": "Girl"
+    },
+    {
+      "name": "Anusha",
+      "meaning": "Beautiful Morning",
+      "gender": "Girl"
+    },
+    {
+      "name": "Ankita",
+      "meaning": "Marked",
+      "gender": "Girl"
+    },
+    {
+      "name": "Avani",
+      "meaning": "Earth",
+      "gender": "Girl"
+    },
+    {
+      "name": "Ashmita",
+      "meaning": "Pride",
+      "gender": "Girl"
+    },
+    {
+      "name": "Barsha",
+      "meaning": "Monsoon; Gift of Nature",
+      "gender": "Girl"
+    },
+    {
+      "name": "Bandana",
+      "meaning": "Worship",
+      "gender": "Girl"
+    },
+    {
+      "name": "Bharati",
+      "meaning": "Goddess Saraswati; Goddess Bhagawati",
+      "gender": "Girl"
+    },
+    {
+      "name": "Bhavana",
+      "meaning": "The deepest Feelings",
+      "gender": "Girl"
+    },
+    {
+      "name": "Bhumika",
+      "meaning": "Palace, One of the three worlds.",
+      "gender": "Girl"
+    },
+    {
+      "name": "Bidhya",
+      "meaning": "Knowledge",
+      "gender": "Girl"
+    },
+    {
+      "name": "Bidita",
+      "meaning": "One who is Genius or Intelligent",
+      "gender": "Girl"
+    },
+    {
+      "name": "Bijaya",
+      "meaning": "Victorious",
+      "gender": "Girl"
+    },
+    {
+      "name": "Bimala",
+      "meaning": "Pure; One who is morally good",
+      "gender": "Girl"
+    },
+    {
+      "name": "Bimisha",
+      "meaning": "Leadership, Fairness",
+      "gender": "Girl"
+    },
+    {
+      "name": "Bina",
+      "meaning": "A musical instrument",
+      "gender": "Girl"
+    },
+    {
+      "name": "Bindu",
+      "meaning": "Point",
+      "gender": "Girl"
+    },
+    {
+      "name": "Binisha",
+      "meaning": "Confident",
+      "gender": "Girl"
+    },
+    {
+      "name": "Binita",
+      "meaning": "Inner Power",
+      "gender": "Girl"
+    },
+    {
+      "name": "Bipana",
+      "meaning": "Awake; Opposite of dream.",
+      "gender": "Girl"
+    },
+    {
+      "name": "Bipasana",
+      "meaning": "Meditation",
+      "gender": "Girl"
+    },
+    {
+      "name": "Bipasha",
+      "meaning": "A river",
+      "gender": "Girl"
+    },
+    {
+      "name": "Bipinsha",
+      "meaning": "Beautiful",
+      "gender": "Girl"
+    },
+    {
+      "name": "Bipisha",
+      "meaning": "Wealth",
+      "gender": "Girl"
+    },
+    {
+      "name": "Bishika",
+      "meaning": "To make a wish",
+      "gender": "Girl"
+    },
+    {
+      "name": "Brinda",
+      "meaning": "Tulsi - a type of holy Basil Plant; Radha",
+      "gender": "Girl"
+    },
+    {
+      "name": "Bristee",
+      "meaning": "Rain",
+      "gender": "Girl"
+    },
+    {
+      "Name": "Chaitna",
+      "Meaning": "Sunflower seed",
+      "Gender": "Girl"
+    },
+    {
+      "Name": "Chadani",
+      "Meaning": "Moonlight",
+      "Gender": "Girl"
+    },
+    {
+      "name": "Ceyone",
+      "meaning": "Rising Sun",
+      "gender": "Girl"
+    },
+    {
+      "name": "Chaitya",
+      "meaning": "Place of worship, of the mind",
+      "gender": "Girl"
+    },
+    {
+      "name": "Chakria",
+      "meaning": "Goddess Lakshmi",
+      "gender": "Girl"
+    },
+    {
+      "name": "Chalsia",
+      "meaning": "Landing place or port",
+      "gender": "Girl"
+    },
+    {
+      "name": "Chandrahas",
+      "meaning": "Bow of Shiva",
+      "gender": "Girl"
+    },
+    {
+      "name": "Chandrani",
+      "meaning": "Wife of the Moon",
+      "gender": "Girl"
+    },
+    {
+      "name": "Chardy",
+      "meaning": "A burning fire that desire love and yet is always alone",
+      "gender": "Girl"
+    },
+    {
+      "name": "Chistha",
+      "meaning": "Rivertributary",
+      "gender": "Girl"
+    },
+    {
+      "name": "Chinthana",
+      "meaning": "Meditation, Intelligentor thoughtful",
+      "gender": "Girl"
+    },
+    {
+      "name": "Chinmaya",
+      "meaning": "Supreme consciousness",
+      "gender": "Girl"
+    },
+    {
+      "name": "Chhabil",
+      "meaning": "Love",
+      "gender": "Girl"
+    },
+    {
+      "name": "Chhaya",
+      "meaning": "Shadow",
+      "gender": "Girl"
+    },
+    {
+      "name": "Champa",
+      "gender": "Girl",
+      "meaning": "A flower"
+    },
+    {
+      "name": "Chudamani",
+      "meaning": "Crest jewel",
+      "gender": "Girl"
+    },
+    {
+      "name": "Charani",
+      "meaning": "A bird",
+      "gender": "Girl"
+    },
+    {
+      "name": "Charishma",
+      "meaning": "Blissful",
+      "gender": "Girl"
+    },
+    {
+      "name": "Cena",
+      "meaning": "Never Give Up",
+      "gender": "Girl"
+    },
+    {
+      "name": "Chinmayi",
+      "meaning": "Supreme consciousness,Name of lordGansh",
+      "gender": "Girl"
+    },
+    {
+      "name": "Chirantana",
+      "meaning": "Longlife",
+      "gender": "Girl"
+    },
+    {
+      "name": "Chithira",
+      "meaning": "Name of a star",
+      "gender": "Girl"
+    },
+    {
+      "name": "Cinthana",
+      "meaning": "Always smiling",
+      "gender": "Girl"
+    },
+    {
+      "name": "Charmi",
+      "meaning": "Lovely",
+      "gender": "Girl"
+    },
+    {
+      "name": "Deekshya",
+      "meaning": "Initiation",
+      "gender": "Girl"
+    },
+    {
+      "name": "Deena",
+      "meaning": "Divine, grand",
+      "gender": "Girl"
+    },
+    {
+      "name": "Deepa",
+      "meaning": "A lamp, brilliant",
+      "gender": "Girl"
+    },
+    {
+      "name": "Deepali",
+      "meaning": "Collection of Lamps",
+      "gender": "Girl"
+    },
+    {
+      "name": "Deepamala",
+      "meaning": "Row of lamps",
+      "gender": "Girl"
+    },
+    {
+      "name": "Deepansha",
+      "meaning": "The light of the lamp",
+      "gender": "Girl"
+    },
+    {
+      "name": "Deepaprabha",
+      "meaning": "Fully lighted",
+      "gender": "Girl"
+    },
+    {
+      "name": "Deepashree",
+      "meaning": "Lamp",
+      "gender": "Girl"
+    },
+    {
+      "name": "Deepika",
+      "meaning": "A lamp",
+      "gender": "Girl"
+    },
+    {
+      "name": "Deepta",
+      "meaning": "Shining",
+      "gender": "Girl"
+    },
+    {
+      "name": "Deepti",
+      "meaning": "Bright",
+      "gender": "Girl"
+    },
+    {
+      "name": "Deesha",
+      "meaning": "Direction",
+      "gender": "Girl"
+    },
+    {
+      "name": "Devaki",
+      "meaning": "Mother of Krishna",
+      "gender": "Girl"
+    },
+    {
+      "name": "Devangana",
+      "meaning": "Celestial maiden",
+      "gender": "Girl"
+    },
+    {
+      "name": "Devangi",
+      "meaning": "Like a goddess",
+      "gender": "Girl"
+    },
+    {
+      "name": "Devashree",
+      "meaning": "Goddess Lakshmi",
+      "gender": "Girl"
+    },
+    {
+      "name": "Deveshi",
+      "meaning": "Goddess Durga",
+      "gender": "Girl"
+    },
+    {
+      "name": "Devika",
+      "meaning": "Minor deity, Mother of Krishna",
+      "gender": "Girl"
+    },
+    {
+      "name": "Devina",
+      "meaning": "Resembling a goddess",
+      "gender": "Girl"
+    },
+    {
+      "name": "Devki",
+      "meaning": "Divine gift",
+      "gender": "Girl"
+    },
+    {
+      "name": "Devya",
+      "meaning": "Divine power",
+      "gender": "Girl"
+    },
+    {
+      "name": "Devyani",
+      "meaning": "Daughter of Shukraacharya",
+      "gender": "Girl"
+    },
+    {
+      "name": "Dikshita",
+      "meaning": "The initiated",
+      "gender": "Girl"
+    },
+    {
+      "name": "Daani",
+      "meaning": "Light Green",
+      "gender": "Girl"
+    },
+    {
+      "name": "Dabika",
+      "meaning": "Like an Angel",
+      "gender": "Girl"
+    },
+    {
+      "name": "Ekta",
+      "meaning": "Unity",
+      "gender": "Girl"
+    },
+    {
+      "name": "Ekisha",
+      "meaning": "One goddess",
+      "gender": "Girl"
+    },
+    {
+      "name": "Elina",
+      "meaning": "Pure, Intelligent",
+      "gender": "Girl"
+    },
+    {
+      "name": "Eshita",
+      "meaning": "One who desires",
+      "gender": "Girl"
+    },
+    {
+      "name": "Etisha",
+      "meaning": "Beginning after the end",
+      "gender": "Girl"
+    },
+    {
+      "name": "Eurika",
+      "meaning": "Miracle",
+      "gender": "Girl"
+    },
+    {
+      "name": "Eswari",
+      "meaning": "Strength",
+      "gender": "Girl"
+    },
+    {
+      "name": "Eisa",
+      "meaning": "Snow",
+      "gender": "Girl"
+    },
+    {
+      "name": "Ekansha",
+      "meaning": "A complete one",
+      "gender": "Girl"
+    },
+    {
+      "name": "Elena",
+      "meaning": "Shining light",
+      "gender": "Girl"
+    },
+    {
+      "name": "Eshana",
+      "meaning": "Search",
+      "gender": "Girl"
+    },
+    {
+      "name": "Eshika",
+      "meaning": "An arrow",
+      "gender": "Girl"
+    },
+    {
+      "name": "Eshwari",
+      "meaning": "Goddess Parvati",
+      "gender": "Girl"
+    },
+    {
+      "name": "Eva",
+      "meaning": "Life",
+      "gender": "Girl"
+    },
+    {
+      "name": "Evisha",
+      "meaning": "Goddess of the universe",
+      "gender": "Girl"
+    },
+    {
+      "name": "Eshwita",
+      "meaning": "Goddess Parvati",
+      "gender": "Girl"
+    },
+    {
+      "name": "Eliana",
+      "meaning": "The Lord has answered",
+      "gender": "Girl"
+    },
+    {
+      "name": "Elira",
+      "meaning": "The earth",
+      "gender": "Girl"
+    },
+    {
+      "name": "Elsi",
+      "meaning": "Noble",
+      "gender": "Girl"
+    },
+    {
+      "name": "Elina",
+      "meaning": "Pure, Intelligent",
+      "gender": "Girl"
+    },
+    {
+      "name": "Emanya",
+      "meaning": "Goddess Durga",
+      "gender": "Girl"
+    },
+    {
+      "name": "Eshna",
+      "meaning": "Desire",
+      "gender": "Girl"
+    },
+    {
+      "name": "Eshvi",
+      "meaning": "Godly",
+      "gender": "Girl"
+    },
+    {
+      "name": "Eshwita",
+      "meaning": "Goddess Parvati",
+      "gender": "Girl"
+    },
+    {
+      "name": "Evaanika",
+      "meaning": "Goddess of the universe",
+      "gender": "Girl"
+    },
+    {
+      "name": "Eshmitha",
+      "meaning": "The one who deserves",
+      "gender": "Girl"
+    },
+    {
+      "name": "Evaisha",
+      "meaning": "Living",
+      "gender": "Girl"
+    },
+    {
+      "name": "Esita",
+      "meaning": "Beloved",
+      "gender": "Girl"
+    },
+    {
+      "name": "Eshanaa",
+      "meaning": "Beautiful flower",
+      "gender": "Girl"
+    },
+    {
+      "name": "Faiza",
+      "meaning": "Victorious",
+      "gender": "Girl"
+    },
+    {
+      "name": "Falika",
+      "meaning": "Tulip Tree",
+      "gender": "Girl"
+    },
+    {
+      "name": "Falvi",
+      "meaning": "Lovable, cute",
+      "gender": "Girl"
+    },
+    {
+      "name": "Firoza",
+      "meaning": "Kind Flower",
+      "gender": "Girl"
+    },
+    {
+      "name": "Fulgenda",
+      "meaning": "Bright, shining",
+      "gender": "Girl"
+    },
+    {
+      "name": "Fuljhari",
+      "meaning": "Firework",
+      "gender": "Girl"
+    },
+    {
+      "name": "Fulki",
+      "meaning": "Spark",
+      "gender": "Girl"
+    },
+    {
+      "name": "Fulmala",
+      "meaning": "Garland of flowers",
+      "gender": "Girl"
+    },
+    {
+      "name": "Fulmati",
+      "meaning": "Beautiful like a flower",
+      "gender": "Girl"
+    },
+    {
+      "name": "Fulmaya",
+      "meaning": "Flower of love",
+      "gender": "Girl"
+    },
+    {
+      "name": "Fuloj",
+      "meaning": "Light of the flower",
+      "gender": "Girl"
+    },
+    {
+      "name": "Fulsala",
+      "meaning": "Flower of spring",
+      "gender": "Girl"
+    },
+    {
+      "name": "Fulvati",
+      "meaning": "Beautiful like a flower",
+      "gender": "Girl"
+    },
+    {
+      "name": "Fulwari",
+      "meaning": "Shower of flowers",
+      "gender": "Girl"
+    },
+    {
+      "name": "Furmila",
+      "meaning": "Garden of flowers",
+      "gender": "Girl"
+    },
+    {
+      "name": "Fulpati",
+      "meaning": "Day of flowers (a day during the festival of Dashain)",
+      "gender": "Girl"
+    },
+    {
+      "name": "Faisa",
+      "meaning": "Blessing to all",
+      "gender": "Girl"
+    },
+    {
+      "name": "Faalguni",
+      "meaning": "Day of the full moon",
+      "gender": "Girl"
+    },
+    {
+      "name": "Furnita",
+      "meaning": "Beautiful like a flower",
+      "gender": "Girl"
+    },
+    {
+      "name": "Fulmati",
+      "meaning": "Beautiful like a flower",
+      "gender": "Girl"
+    },
+    {
+      "name": "Furnova",
+      "meaning": "New, fresh",
+      "gender": "Girl"
+    },
+    {
+      "name": "Furoja",
+      "meaning": "One who blooms",
+      "gender": "Girl"
+    },
+    {
+      "name": "Furpati",
+      "meaning": "Day of flowers (a day during the festival of Dashain)",
+      "gender": "Girl"
+    },
+    {
+      "name": "Furya",
+      "meaning": "Blooming, flourishing",
+      "gender": "Girl"
+    },
+    {
+      "name": "Ganga",
+      "meaning": "Sacred river of Nepal associated with purity and new beginnings",
+      "gender": "Girl"
+    },
+    {
+      "name": "Goma",
+      "meaning": "Unity or togetherness",
+      "gender": "Girl"
+    },
+    {
+      "name": "Gomti",
+      "meaning": "A sacred river",
+      "gender": "Girl"
+    },
+    {
+      "name": "Gaurika",
+      "meaning": "Young girl or a maiden",
+      "gender": "Girl"
+    },
+    {
+      "name": "Gaganpreet",
+      "meaning": "Combination of love and sky",
+      "gender": "Girl"
+    },
+    {
+      "name": "Grishma",
+      "meaning": "Signifying summer or warmth",
+      "gender": "Girl"
+    },
+    {
+      "name": "Guna",
+      "meaning": "Virtue or quality",
+      "gender": "Girl"
+    },
+    {
+      "name": "Garima",
+      "meaning": "Dignity or prestige",
+      "gender": "Girl"
+    },
+    {
+      "name": "Gaurikanta",
+      "meaning": "Beautiful like Parvati",
+      "gender": "Girl"
+    },
+    {
+      "name": "Ghansina",
+      "meaning": "Dark complexioned or Lord Krishna",
+      "gender": "Girl"
+    },
+    {
+      "name": "Gita",
+      "meaning": "A sacred Hindu scripture",
+      "gender": "Girl"
+    },
+    {
+      "name": "Gitanjali",
+      "meaning": "An offering of songs",
+      "gender": "Girl"
+    },
+    {
+      "name": "Gunjika",
+      "meaning": "Humming or buzzing",
+      "gender": "Girl"
+    },
+    {
+      "name": "Grisha",
+      "meaning": "Watchful",
+      "gender": "Girl"
+    },
+    {
+      "name": "Gunjita",
+      "meaning": "Humming of bee",
+      "gender": "Girl"
+    },
+    {
+      "name": "Gyanmani",
+      "meaning": "Gem of knowledge",
+      "gender": "Girl"
+    },
+    {
+      "name": "Gommati",
+      "meaning": "Signifying a sacred river",
+      "gender": "Girl"
+    },
+    {
+      "name": "Gulab",
+      "meaning": "A beautiful flower",
+      "gender": "Girl"
+    },
+    {
+      "name": "Gaatrika",
+      "meaning": "A sweet song",
+      "gender": "Girl"
+    },
+    {
+      "name": "Gyatri",
+      "meaning": "A goddess",
+      "gender": "Girl"
+    },
+    {
+      "name": "Gitika",
+      "meaning": "A blessing",
+      "gender": "Girl"
+    },
+    {
+      "name": "Girija",
+      "meaning": "Goddess Parvati",
+      "gender": "Girl"
+    },
+    {
+      "name": "Gyani",
+      "meaning": "Knowledgeable",
+      "gender": "Girl"
+    },
+    {
+      "name": "Gyanu",
+      "meaning": "Knowledgeable or wise",
+      "gender": "Girl"
+    },
+    {
+      "name": "Garisha",
+      "meaning": "Lord of the mountains",
+      "gender": "Girl"
+    },
+    {
+      "name": "Havya",
+      "meaning": "Lord Shiva",
+      "gender": "Girl"
+    },
+    {
+      "name": "Harika",
+      "meaning": "Belonging to God",
+      "gender": "Girl"
+    },
+    {
+      "name": "Hema",
+      "meaning": "Golden",
+      "gender": "Girl"
+    },
+    {
+      "name": "Harita",
+      "meaning": "Green",
+      "gender": "Girl"
+    },
+    {
+      "name": "Hritika",
+      "meaning": "Joyful",
+      "gender": "Girl"
+    },
+    {
+      "name": "Harshi",
+      "meaning": "Happiness",
+      "gender": "Girl"
+    },
+    {
+      "name": "Hena",
+      "meaning": "A flower",
+      "gender": "Girl"
+    },
+    {
+      "name": "Hiraaya",
+      "meaning": "Precious like a diamond",
+      "gender": "Girl"
+    },
+    {
+      "name": "Harsha",
+      "meaning": "Happiness",
+      "gender": "Girl"
+    },
+    {
+      "name": "Hasty",
+      "meaning": "Elephant",
+      "gender": "Girl"
+    },
+    {
+      "name": "Harsita",
+      "meaning": "Joyful",
+      "gender": "Girl"
+    },
+    {
+      "name": "Hansini",
+      "meaning": "Swan-like",
+      "gender": "Girl"
+    },
+    {
+      "name": "Hritay",
+      "meaning": "One who praises the Lord",
+      "gender": "Girl"
+    },
+    {
+      "name": "Hasita",
+      "meaning": "Happy",
+      "gender": "Girl"
+    },
+    {
+      "name": "Harini",
+      "meaning": "Deer-like",
+      "gender": "Girl"
+    },
+    {
+      "name": "Heshika",
+      "meaning": "One who praises the Lord",
+      "gender": "Girl"
+    },
+    {
+      "name": "Harina",
+      "meaning": "Deer",
+      "gender": "Girl"
+    },
+    {
+      "name": "Hemalata",
+      "meaning": "Golden creeper",
+      "gender": "Girl"
+    },
+    {
+      "name": "Hiral",
+      "meaning": "Lustrous",
+      "gender": "Girl"
+    },
+    {
+      "name": "Hanshika",
+      "meaning": "Swan",
+      "gender": "Girl"
+    },
+    {
+      "name": "Hemisha",
+      "meaning": "Goddess Parvati",
+      "gender": "Girl"
+    },
+    {
+      "name": "Hita",
+      "meaning": "Lovable",
+      "gender": "Girl"
+    },
+    {
+      "name": "Himali",
+      "meaning": "Ice",
+      "gender": "Girl"
+    },
+    {
+      "name": "Hiranya",
+      "meaning": "Gold",
+      "gender": "Girl"
+    },
+    {
+      "name": "Hivika",
+      "meaning": "Illumination",
+      "gender": "Girl"
+    },
+    {
+      "name": "Havisha",
+      "meaning": "Goddess Lakshmi",
+      "gender": "Girl"
+    },
+    {
+      "name": "Hemakshi",
+      "meaning": "Golden-eyed",
+      "gender": "Girl"
+    },
+    {
+      "name": "Ishanka",
+      "meaning": "Lord Shiva",
+      "gender": "Girl"
+    },
+    {
+      "name": "Ishraqa",
+      "meaning": "Sunrise",
+      "gender": "Girl"
+    },
+    {
+      "name": "Iksha",
+      "meaning": "Sight",
+      "gender": "Girl"
+    },
+    {
+      "name": "Ishanika",
+      "meaning": "Queen",
+      "gender": "Girl"
+    },
+    {
+      "name": "Ishitha",
+      "meaning": "Superior",
+      "gender": "Girl"
+    },
+    {
+      "name": "Ikshu",
+      "meaning": "Sugarcane",
+      "gender": "Girl"
+    },
+    {
+      "name": "Indrani",
+      "meaning": "Wife of Indra",
+      "gender": "Girl"
+    },
+    {
+      "name": "Ishanya",
+      "meaning": "Northeast direction",
+      "gender": "Girl"
+    },
+    {
+      "name": "Ishanki",
+      "meaning": "Moon",
+      "gender": "Girl"
+    },
+    {
+      "name": "Ishayi",
+      "meaning": "The earth",
+      "gender": "Girl"
+    },
+    {
+      "name": "Ishira",
+      "meaning": "Goddess Durga",
+      "gender": "Girl"
+    },
+    {
+      "name": "Ikra",
+      "meaning": "Read",
+      "gender": "Girl"
+    },
+    {
+      "name": "Ishya",
+      "meaning": "Spring",
+      "gender": "Girl"
+    },
+    {
+      "name": "Ishna",
+      "meaning": "Protector",
+      "gender": "Girl"
+    },
+    {
+      "name": "Ishayi",
+      "meaning": "The earth",
+      "gender": "Girl"
+    },
+    {
+      "name": "Ishara",
+      "meaning": "Goddess Durga",
+      "gender": "Girl"
+    },
+    {
+      "name": "Ishika",
+      "meaning": "Sacred",
+      "gender": "Girl"
+    },
+    {
+      "name": "Ishra",
+      "meaning": "Earth",
+      "gender": "Girl"
+    },
+    {
+      "name": "Ishwari",
+      "meaning": "Goddess",
+      "gender": "Girl"
+    },
+    {
+      "name": "Ishmita",
+      "meaning": "Wish",
+      "gender": "Girl"
+    },
+    {
+      "name": "Ishni",
+      "meaning": "Sun",
+      "gender": "Girl"
+    },
+    {
+      "name": "Jyotsna",
+      "meaning": "Moonlight",
+      "gender": "Girl"
+    },
+    {
+      "name": "Jalpa",
+      "meaning": "Discussion",
+      "gender": "Girl"
+    },
+    {
+      "name": "Janhavi",
+      "meaning": "River Ganga",
+      "gender": "Girl"
+    },
+    {
+      "name": "Jasmine",
+      "meaning": "A fragrant flower",
+      "gender": "Girl"
+    },
+    {
+      "name": "Jeevika",
+      "meaning": "Water",
+      "gender": "Girl"
+    },
+    {
+      "name": "Jalasha",
+      "meaning": "Celebration of water",
+      "gender": "Girl"
+    },
+    {
+      "name": "Jivika",
+      "meaning": "Source of life",
+      "gender": "Girl"
+    },
+    {
+      "name": "Jinal",
+      "meaning": "Lord Vishnu",
+      "gender": "Girl"
+    },
+    {
+      "name": "Jhalak",
+      "meaning": "Glimpse",
+      "gender": "Girl"
+    },
+    {
+      "name": "Jwala",
+      "meaning": "Flame",
+      "gender": "Girl"
+    },
+    {
+      "name": "Jivanti",
+      "meaning": "River Ganga",
+      "gender": "Girl"
+    },
+    {
+      "name": "Jhumki",
+      "meaning": "Earring",
+      "gender": "Girl"
+    },
+    {
+      "name": "Jahanara",
+      "meaning": "Queen of the world",
+      "gender": "Girl"
+    },
+    {
+      "name": "Jyotirmai",
+      "meaning": "Full of light",
+      "gender": "Girl"
+    },
+    {
+      "name": "Jivisha",
+      "meaning": "Desire to live",
+      "gender": "Girl"
+    },
+    {
+      "name": "Jalini",
+      "meaning": "Earth",
+      "gender": "Girl"
+    },
+    {
+      "name": "Janisha",
+      "meaning": "Dispeller of ignorance",
+      "gender": "Girl"
+    },
+    {
+      "name": "Jheel",
+      "meaning": "Lake",
+      "gender": "Girl"
+    },
+    {
+      "name": "Jyestha",
+      "meaning": "Eldest",
+      "gender": "Girl"
+    },
+    {
+      "name": "Jamini",
+      "meaning": "Night",
+      "gender": "Girl"
+    },
+    {
+      "name": "Jagriti",
+      "meaning": "Awakening",
+      "gender": "Girl"
+    },
+    {
+      "name": "Jaladhi",
+      "meaning": "Sea",
+      "gender": "Girl"
+    },
+    {
+      "name": "Jenisha",
+      "meaning": "Goddess of victory",
+      "gender": "Girl"
+    },
+    {
+      "name": "Jyotsika",
+      "meaning": "Light",
+      "gender": "Girl"
+    },
+    {
+      "name": "Jwalamukhi",
+      "meaning": "Goddess with a fiery mouth",
+      "gender": "Girl"
+    },
+    {
+      "name": "Kumud",
+      "meaning": "Lotus",
+      "gender": "Girl"
+    },
+    {
+      "name": "Kritika",
+      "meaning": "Name of a star, Virgo",
+      "gender": "Girl"
+    },
+    {
+      "name": "Kamala",
+      "meaning": "Lotus",
+      "gender": "Girl"
+    },
+    {
+      "name": "Krina",
+      "meaning": "Beauty, Compassion",
+      "gender": "Girl"
+    },
+    {
+      "name": "Kumari",
+      "meaning": "Princess",
+      "gender": "Girl"
+    },
+    {
+      "name": "Kavita",
+      "meaning": "Poem",
+      "gender": "Girl"
+    },
+    {
+      "name": "Kamini",
+      "meaning": "Desirable, Beautiful",
+      "gender": "Girl"
+    },
+    {
+      "name": "Krisha",
+      "meaning": "Divine, Holy",
+      "gender": "Girl"
+    },
+    {
+      "name": "Kusum",
+      "meaning": "Flower",
+      "gender": "Girl"
+    },
+    {
+      "name": "Kamya",
+      "meaning": "Desirable, Wish",
+      "gender": "Girl"
+    },
+    {
+      "name": "Khushi",
+      "meaning": "Happiness",
+      "gender": "Girl"
+    },
+    {
+      "name": "Kirti",
+      "meaning": "Fame, Glory",
+      "gender": "Girl"
+    },
+    {
+      "name": "Kavya",
+      "meaning": "Poetry, Literary",
+      "gender": "Girl"
+    },
+    {
+      "name": "Kiranmayi",
+      "meaning": "Full of light, Radiant",
+      "gender": "Girl"
+    },
+    {
+      "name": "Kalyani",
+      "meaning": "Fortunate, Auspicious",
+      "gender": "Girl"
+    },
+    {
+      "name": "Kabita",
+      "meaning": "Poem",
+      "gender": "Girl"
+    },
+    {
+      "name": "Kartika",
+      "meaning": "Name of a Hindu month",
+      "gender": "Girl"
+    },
+    {
+      "name": "Krithika",
+      "meaning": "Well-versed, Famous",
+      "gender": "Girl"
+    },
+    {
+      "name": "Kalpana",
+      "meaning": "Imagination",
+      "gender": "Girl"
+    },
+    {
+      "name": "Kavya",
+      "meaning": "Poetry, Literary",
+      "gender": "Girl"
+    },
+    {
+      "name": "Kshitija",
+      "meaning": "Horizon",
+      "gender": "Girl"
+    },
+    {
+      "name": "Kumari",
+      "meaning": "Princess",
+      "gender": "Girl"
+    },
+    {
+      "name": "Kusumita",
+      "meaning": "Flower-like",
+      "gender": "Girl"
+    },
+    {
+      "name": "Kushal",
+      "meaning": "Skillful",
+      "gender": "Girl"
+    },
+    {
+      "name": "Kirtana",
+      "meaning": "Praising",
+      "gender": "Girl"
+    },
+    {
+      "name": "Kanchan",
+      "meaning": "Gold",
+      "gender": "Girl"
+    },
+    {
+      "name": "Kumkum",
+      "meaning": "Saffron",
+      "gender": "Girl"
+    },
+    {
+      "name": "Kshirja",
+      "meaning": "Daughter of the ocean",
+      "gender": "Girl"
+    },
+    {
+      "name": "Kaavya",
+      "meaning": "Poetry, Music",
+      "gender": "Girl"
+    },
+    {
+      "name": "Laksha",
+      "meaning": "White Rose",
+      "gender": "Girl"
+    },
+    {
+      "name": "Lakshika",
+      "meaning": "Distinguished",
+      "gender": "Girl"
+    },
+    {
+      "name": "Lakshitha",
+      "meaning": "Distinguished",
+      "gender": "Girl"
+    },
+    {
+      "name": "Lalita",
+      "meaning": "Beautiful, Elegant",
+      "gender": "Girl"
+    },
+    {
+      "name": "Lalithika",
+      "meaning": "Graceful",
+      "gender": "Girl"
+    },
+    {
+      "name": "Lalitika",
+      "meaning": "Beautiful",
+      "gender": "Girl"
+    },
+    {
+      "name": "Lalitkumar",
+      "meaning": "Beautiful Prince",
+      "gender": "Girl"
+    },
+    {
+      "name": "Lalitwati",
+      "meaning": "Beautiful Woman",
+      "gender": "Girl"
+    },
+    {
+      "name": "Lalitwati",
+      "meaning": "Beautiful Woman",
+      "gender": "Girl"
+    },
+    {
+      "name": "Lalitwati",
+      "meaning": "Beautiful Woman",
+      "gender": "Girl"
+    },
+    {
+      "name": "Lata",
+      "meaning": "A creeper; A Bud of flower",
+      "gender": "Girl"
+    },
+    {
+      "name": "Latika",
+      "meaning": "a small creeper of vine",
+      "gender": "Girl"
+    },
+    {
+      "name": "Leena",
+      "meaning": "Prosperity life, Soft & Gentle",
+      "gender": "Girl"
+    },
+    {
+      "name": "Lekha",
+      "meaning": "Writing",
+      "gender": "Girl"
+    },
+    {
+      "name": "Lekisha",
+      "meaning": "Intelligent",
+      "gender": "Girl"
+    },
+    {
+      "name": "Lekshmi",
+      "meaning": "Goddess of Wealth",
+      "gender": "Girl"
+    },
+    {
+      "name": "Liana",
+      "meaning": "Vine",
+      "gender": "Girl"
+    },
+    {
+      "name": "Lina",
+      "meaning": "Tender",
+      "gender": "Girl"
+    },
+    {
+      "name": "Lisha",
+      "meaning": "Goddess of Money",
+      "gender": "Girl"
+    },
+    {
+      "name": "Lokita",
+      "meaning": "Worldly",
+      "gender": "Girl"
+    },
+    {
+      "name": "Lopa",
+      "meaning": "Wife of Sage Kavya",
+      "gender": "Girl"
+    },
+    {
+      "name": "Lopa",
+      "meaning": "Wife of Sage Kavya",
+      "gender": "Girl"
+    },
+    {
+      "name": "Lopa",
+      "meaning": "Wife of Sage Kavya",
+      "gender": "Girl"
+    },
+    {
+      "name": "Lopa",
+      "meaning": "Wife of Sage Kavya",
+      "gender": "Girl"
+    },
+    {
+      "name": "Luniva",
+      "meaning": "Sunrise",
+      "gender": "Girl"
+    },
+    {
+      "name": "Lushita",
+      "meaning": "Protected by the eye",
+      "gender": "Girl"
+    },
+    {
+      "name": "Madhu",
+      "meaning": "Sweet, Honey",
+      "gender": "Girl"
+    },
+    {
+      "name": "Mahika",
+      "meaning": "Durga",
+      "gender": "Girl"
+    },
+    {
+      "name": "Mahima",
+      "meaning": "Glory",
+      "gender": "Girl"
+    },
+    {
+      "name": "Mahira",
+      "meaning": "Expert",
+      "gender": "Girl"
+    },
+    {
+      "name": "Mamata",
+      "meaning": "Affection, Preeti, Motherly Love",
+      "gender": "Girl"
+    },
+    {
+      "name": "Manisha",
+      "meaning": "Wisdom, Desire",
+      "gender": "Girl"
+    },
+    {
+      "name": "Manvi",
+      "meaning": "Human",
+      "gender": "Girl"
+    },
+    {
+      "name": "Mansi",
+      "meaning": "Woman",
+      "gender": "Girl"
+    },
+    {
+      "name": "Maya",
+      "meaning": "Illusion",
+      "gender": "Girl"
+    },
+    {
+      "name": "Medha",
+      "meaning": "Intellect",
+      "gender": "Girl"
+    },
+    {
+      "name": "Meena",
+      "meaning": "Precious Blue Stone",
+      "gender": "Girl"
+    },
+    {
+      "name": "Meera",
+      "meaning": "Goddess of Love, Prosperous",
+      "gender": "Girl"
+    },
+    {
+      "name": "Mehak",
+      "meaning": "Fragrance",
+      "gender": "Girl"
+    },
+    {
+      "name": "Mira",
+      "meaning": "Sea, Ocean, A Devotee of Krishna",
+      "gender": "Girl"
+    },
+    {
+      "name": "Mitali",
+      "meaning": "Friendship, Friendly Person, A Good Friend",
+      "gender": "Girl"
+    },
+    {
+      "name": "Mithila",
+      "meaning": "Kingdom",
+      "gender": "Girl"
+    },
+    {
+      "name": "Monika",
+      "meaning": "Adviser",
+      "gender": "Girl"
+    },
+    {
+      "name": "Moulika",
+      "meaning": "Beloved",
+      "gender": "Girl"
+    },
+    {
+      "name": "Muskan",
+      "meaning": "Smile",
+      "gender": "Girl"
+    },
+    {
+      "name": "Mukta",
+      "meaning": "Liberated, Pearl",
+      "gender": "Girl"
+    },
+    {
+      "name": "Nisha",
+      "meaning": "Night",
+      "gender": "Girl"
+    },
+    {
+      "name": "Nirjana",
+      "meaning": "pure and flawless",
+      "gender": "Girl"
+    },
+    {
+      "name": "Nabina",
+      "meaning": "New",
+      "gender": "Girl"
+    },
+    {
+      "name": "Naina",
+      "meaning": "Eye",
+      "gender": "Girl"
+    },
+    {
+      "name": "Nila",
+      "meaning": "Dark blue",
+      "gender": "Girl"
+    },
+    {
+      "name": "Nikita",
+      "meaning": "victorious",
+      "gender": "Girl"
+    },
+    {
+      "name": "Nirmaya",
+      "meaning": "Without illness",
+      "gender": "Girl"
+    },
+    {
+      "name": "Nirsaga",
+      "meaning": "nature and environment",
+      "gender": "Girl"
+    },
+    {
+      "name": "Nivedita",
+      "meaning": "Dedicated or sacrificed",
+      "gender": "Girl"
+    },
+    {
+      "name": "Niruta",
+      "meaning": "Ethereal or divine",
+      "gender": "Girl"
+    },
+    {
+      "name": "Nishma",
+      "meaning": "Silent",
+      "gender": "Girl"
+    },
+    {
+      "name": "Nishaani",
+      "meaning": "Mark sign",
+      "gender": "Girl"
+    },
+    {
+      "name": "Neha",
+      "meaning": "love and affection",
+      "gender": "Girl"
+    },
+    {
+      "name": "Niru",
+      "meaning": "Beauty of heavenly Goddess",
+      "gender": "Girl"
+    },
+    {
+      "name": "Neharika",
+      "meaning": "whole galaxy",
+      "gender": "Girl"
+    },
+    {
+      "name": "Nirviti",
+      "meaning": "Retreat",
+      "gender": "Girl"
+    },
+    {
+      "name": "Nirjana",
+      "meaning": "Spotless and flawless",
+      "gender": "Girl"
+    },
+    {
+      "name": "Namrata",
+      "meaning": "Huminity and modesty",
+      "gender": "Girl"
+    },
+    {
+      "name": "Navya",
+      "meaning": "Novel",
+      "gender": "Girl"
+    },
+    {
+      "name": "Nithila",
+      "meaning": "Beautiful or charming",
+      "gender": "Girl"
+    },
+    {
+      "name": "Ojasvi",
+      "meaning": "Energetic, Radiant",
+      "gender": "Girl"
+    },
+    {
+      "name": "Ojal",
+      "meaning": "Splendor, Brilliance",
+      "gender": "Girl"
+    },
+    {
+      "name": "Oormila",
+      "meaning": "Born from the Earth",
+      "gender": "Girl"
+    },
+    {
+      "name": "Oorvi",
+      "meaning": "Earth, She who is like the Earth",
+      "gender": "Girl"
+    },
+    {
+      "name": "Oshin",
+      "meaning": "Ocean, Sea",
+      "gender": "Girl"
+    },
+    {
+      "name": "Ojaswita",
+      "meaning": "Energetic, Lustrous",
+      "gender": "Girl"
+    },
+    {
+      "name": "Ojasi",
+      "meaning": "Brilliant, Splendid",
+      "gender": "Girl"
+    },
+    {
+      "name": "Oorja",
+      "meaning": "Energy, Power",
+      "gender": "Girl"
+    },
+    {
+      "name": "Omkara",
+      "meaning": "Goddess Parvati, The sacred syllable 'Om'",
+      "gender": "Girl"
+    },
+    {
+      "name": "Oshika",
+      "meaning": "Auspicious, Pious",
+      "gender": "Girl"
+    },
+    {
+      "name": "Ovisha",
+      "meaning": "Source of knowledge",
+      "gender": "Girl"
+    },
+    {
+      "name": "Ojovati",
+      "meaning": "Vitality, Life force",
+      "gender": "Girl"
+    },
+    {
+      "name": "Ojaswini",
+      "meaning": "Energetic, Luminous",
+      "gender": "Girl"
+    },
+    {
+      "name": "Oishi",
+      "meaning": "Divine, Charming",
+      "gender": "Girl"
+    },
+    {
+      "name": "Ojini",
+      "meaning": "Shining, Radiant",
+      "gender": "Girl"
+    },
+    {
+      "name": "Ojalika",
+      "meaning": "Splendid, Brilliant",
+      "gender": "Girl"
+    },
+    {
+      "name": "Ojasmita",
+      "meaning": "Radiant smile, Lustrous",
+      "gender": "Girl"
+    },
+    {
+      "name": "Ojalika",
+      "meaning": "Splendid, Bright",
+      "gender": "Girl"
+    },
+    {
+      "name": "Ompati",
+      "meaning": "Goddess Parvati, Consort of Lord Shiva",
+      "gender": "Girl"
+    },
+    {
+      "name": "Oorjita",
+      "meaning": "Energetic, Powerful",
+      "gender": "Girl"
+    },
+    {
+      "name": "Ojaswita",
+      "meaning": "Radiant, Luminous",
+      "gender": "Girl"
+    },
+    {
+      "name": "Oorvi",
+      "meaning": "Earth, She who is like the Earth",
+      "gender": "Girl"
+    },
+    {
+      "name": "Oviya",
+      "meaning": "Artist, Beautiful drawing",
+      "gender": "Girl"
+    },
+    {
+      "name": "Omkari",
+      "meaning": "Goddess Parvati, The sacred syllable 'Om'",
+      "gender": "Girl"
+    },
+    {
+      "name": "Padma",
+      "meaning": "Goddess Lakshmi",
+      "Gender": "Girl"
+    },
+    {
+      "name": "Padmini",
+      "meaning": "Lotus",
+      "Gender": "Girl"
+    },
+    {
+      "name": "Parbati",
+      "meaning": "Name of goddess",
+      "Gender": "Girl"
+    },
+    {
+      "name": "Pareli",
+      "meaning": "Beautiful eyebrows",
+      "Gender": "Girl"
+    },
+    {
+      "name": "Pari",
+      "meaning": "Fairy",
+      "Gender": "Girl"
+    },
+    {
+      "name": "Parisha",
+      "meaning": "One who is fairy-like",
+      "Gender": "Girl"
+    },
+    {
+      "name": "Prakriti",
+      "meaning": "Nature",
+      "Gender": "Girl"
+    },
+    {
+      "name": "Pramila",
+      "meaning": "Wisdom, Expert",
+      "Gender": "Girl"
+    },
+    {
+      "name": "Parnika",
+      "meaning": "A small leaf, Goddess Parvati",
+      "Gender": "Girl"
+    },
+    {
+      "name": "Parshavi",
+      "meaning": "Stone turned into Gold",
+      "Gender": "Girl"
+    },
+    {
+      "name": "Pooja",
+      "meaning": "Idol Worship",
+      "Gender": "Girl"
+    },
+    {
+      "name": "Poonam",
+      "meaning": "Full moon",
+      "Gender": "Girl"
+    },
+    {
+      "name": "Pramila",
+      "meaning": "One of Arjun's wife",
+      "Gender": "Girl"
+    },
+    {
+      "name": "Pranati",
+      "meaning": "Prayer",
+      "Gender": "Girl"
+    },
+    {
+      "name": "Prapti",
+      "meaning": "Gain",
+      "Gender": "Girl"
+    },
+    {
+      "name": "Prasamsa",
+      "meaning": "Gain",
+      "Gender": "Girl"
+    },
+    {
+      "name": "Prasanna",
+      "meaning": "Rising",
+      "Gender": "Girl"
+    },
+    {
+      "name": "Prashika",
+      "meaning": "Full Of Love",
+      "Gender": "Girl"
+    },
+    {
+      "name": "Pranisha",
+      "meaning": "Love to life",
+      "Gender": "Girl"
+    },
+    {
+      "name": "Pratigya",
+      "meaning": "Promise",
+      "Gender": "Girl"
+    },
+    {
+      "name": "Pratikshya",
+      "meaning": "Wait",
+      "Gender": "Girl"
+    },
+    {
+      "name": "Pratima",
+      "meaning": "Statue, Icon",
+      "Gender": "Girl"
+    },
+    {
+      "name": "Prativa",
+      "meaning": "Talent",
+      "Gender": "Girl"
+    },
+    {
+      "name": "Prekshya",
+      "meaning": "Looking at, Observing",
+      "Gender": "Girl"
+    },
+    {
+      "name": "Preeti",
+      "meaning": "Lovely",
+      "Gender": "Girl"
+    },
+    {
+      "name": "Perana",
+      "meaning": "To encourage",
+      "Gender": "Girl"
+    },
+    {
+      "name": "Preshika",
+      "meaning": "Messenger",
+      "Gender": "Girl"
+    },
+    {
+      "name": "Prinju",
+      "meaning": "Gift of God",
+      "Gender": "Girl"
+    },
+    {
+      "name": "Prinsha",
+      "meaning": "Gift of God",
+      "Gender": "Girl"
+    },
+    {
+      "name": "Priti",
+      "meaning": "Love, Beautiful",
+      "Gender": "Girl"
+    },
+    {
+      "name": "Prinshu",
+      "meaning": "A Princess",
+      "Gender": "Girl"
+    },
+    {
+      "name": "Pritika",
+      "meaning": "A dear One",
+      "Gender": "Girl"
+    },
+    {
+      "name": "Priya",
+      "meaning": "Loved One",
+      "Gender": "Girl"
+    },
+    {
+      "name": "Priyanka",
+      "meaning": "A beautiful act",
+      "Gender": "Girl"
+    },
+    {
+      "name": "Priyanshi",
+      "meaning": "Someone who is loveable",
+      "Gender": "Girl"
+    },
+    {
+      "name": "Priyansha",
+      "meaning": "Beautiful Hope",
+      "Gender": "Girl"
+    },
+    {
+      "name": "Priyashu",
+      "meaning": "First Ray of Light",
+      "Gender": "Girl"
+    },
+    {
+      "name": "Purnima",
+      "meaning": "Full Moon",
+      "Gender": "Girl"
+    },
+    {
+      "name": "Puspa",
+      "meaning": "Flower",
+      "Gender": "Girl"
+    },
+    {
+      "name": "Radha",
+      "meaning": "Success, Prosperity",
+      "gender": "Girl"
+    },
+    {
+      "name": "Riya",
+      "meaning": "Singer",
+      "gender": "Girl"
+    },
+    {
+      "name": "Rupal",
+      "meaning": "Made of Silver",
+      "gender": "Girl"
+    },
+    {
+      "name": "Roshni",
+      "meaning": "Light",
+      "gender": "Girl"
+    },
+    {
+      "name": "Ritika",
+      "meaning": "Ritual",
+      "gender": "Girl"
+    },
+    {
+      "name": "Rajani",
+      "meaning": "Night",
+      "gender": "Girl"
+    },
+    {
+      "name": "Reena",
+      "meaning": "Gem",
+      "gender": "Girl"
+    },
+    {
+      "name": "Rishita",
+      "meaning": "The Best",
+      "gender": "Girl"
+    },
+    {
+      "name": "Rukmini",
+      "meaning": "Goddess of Fortune",
+      "gender": "Girl"
+    },
+    {
+      "name": "Ritisha",
+      "meaning": "Moon",
+      "gender": "Girl"
+    },
+    {
+      "name": "Rajshree",
+      "meaning": "Goddess Sita",
+      "gender": "Girl"
+    },
+    {
+      "name": "Rekha",
+      "meaning": "Line",
+      "gender": "Girl"
+    },
+    {
+      "name": "Ridhi",
+      "meaning": "Good Fortune",
+      "gender": "Girl"
+    },
+    {
+      "name": "Ruchi",
+      "meaning": "Light",
+      "gender": "Girl"
+    },
+    {
+      "name": "Rashmi",
+      "meaning": "Sunlight",
+      "gender": "Girl"
+    },
+    {
+      "name": "Rituja",
+      "meaning": "Season",
+      "gender": "Girl"
+    },
+    {
+      "name": "Rishira",
+      "meaning": "Sweet",
+      "gender": "Girl"
+    },
+    {
+      "name": "Reevisha",
+      "meaning": "Beloved",
+      "gender": "Girl"
+    },
+    {
+      "name": "Rajanya",
+      "meaning": "Royal",
+      "gender": "Girl"
+    },
+    {
+      "name": "Ritwika",
+      "meaning": "Ritual",
+      "gender": "Girl"
+    },
+    {
+      "name": "Rubina",
+      "meaning": "Bright, Beautiful",
+      "gender": "Girl"
+    },
+    {
+      "name": "Rujula",
+      "meaning": "Who Endows Wealth",
+      "gender": "Girl"
+    },
+    {
+      "name": "Rakshita",
+      "meaning": "Protector",
+      "gender": "Girl"
+    },
+    {
+      "name": "Rhea",
+      "meaning": "River",
+      "gender": "Girl"
+    },
+    {
+      "name": "Reeva",
+      "meaning": "Star",
+      "gender": "Girl"
+    },
+    {
+      "name": "Swetha",
+      "meaning": "Pure",
+      "gender": "Girl"
+    },
+    {
+      "name": "Swosti",
+      "meaning": "Welfare, Fortune",
+      "gender": "Girl"
+    },
+    {
+      "name": "Swikriti",
+      "meaning": "Permission, Agree",
+      "gender": "Girl"
+    },
+    {
+      "name": "Swastika",
+      "meaning": "An ancient symbol in the form of an equal-armed cross with each arm continued at a right angle",
+      "gender": "Girl"
+    },
+    {
+      "name": "Swarupa",
+      "meaning": "Truth",
+      "gender": "Girl"
+    },
+    {
+      "name": "Swapnali",
+      "meaning": "Dreamlike",
+      "gender": "Girl"
+    },
+    {
+      "name": "Suvhana",
+      "meaning": "Golden or Good Complexioned",
+      "gender": "Girl"
+    },
+    {
+      "name": "Samiksha",
+      "meaning": "Evaluation",
+      "gender": "Girl"
+    },
+    {
+      "name": "Sadhana",
+      "meaning": "Dedication ,spiritual practice",
+      "gender": "Girl"
+    },
+    {
+      "name": "Suvika",
+      "meaning": "Virtuous",
+      "gender": "Girl"
+    },
+    {
+      "name": "Shristi",
+      "meaning": "Creation ,universe",
+      "gender": "Girl"
+    },
+    {
+      "name": "Swara",
+      "meaning": "Musical notes",
+      "gender": "Girl"
+    },
+    {
+      "name": "Sarisha",
+      "meaning": "Charming and delightful person",
+      "gender": "Girl"
+    },
+    {
+      "name": "Sajina",
+      "meaning": "Creative and artistic person",
+      "gender": "Girl"
+    },
+    {
+      "name": "Shalika",
+      "meaning": "Songbird",
+      "gender": "Girl"
+    },
+    {
+      "name": "Santoshi",
+      "meaning": "Content and satisfied person",
+      "gender": "Girl"
+    },
+    {
+      "name": "Sahitha",
+      "meaning": "Together",
+      "gender": "Girl"
+    },
+    {
+      "name": "Shrina",
+      "meaning": "Charming",
+      "gender": "Girl"
+    },
+    {
+      "name": "Suyasha",
+      "meaning": "Good fortune",
+      "gender": "Girl"
+    },
+    {
+      "name": "Samriddhi",
+      "meaning": "Prosperity",
+      "gender": "Girl"
+    },
+    {
+      "name": "Sanskriti",
+      "meaning": "Culture,tradition",
+      "gender": "Girl"
+    },
+    {
+      "name": "Sukanya",
+      "meaning": "Beautiful Girl",
+      "gender": "Girl"
+    },
+    {
+      "name": "Saranya",
+      "meaning": "Surrendered,Protected",
+      "gender": "Girl"
+    },
+    {
+      "name": "Saral",
+      "meaning": "Simple",
+      "gender": "Girl"
+    },
+    {
+      "name": "Siara",
+      "meaning": "Moonlight",
+      "gender": "Girl"
+    },
+    {
+      "name": "Tanvi",
+      "meaning": "A delicate girl",
+      "gender": "Girl"
+    },
+    {
+      "name": "Tara",
+      "meaning": "Star",
+      "gender": "Girl"
+    },
+    {
+      "name": "Tejashwi",
+      "meaning": "Intelligent, Bright",
+      "gender": "Girl"
+    },
+    {
+      "name": "Tisha",
+      "meaning": "Joy",
+      "gender": "Girl"
+    },
+    {
+      "name": "Trisha",
+      "meaning": "Desire",
+      "gender": "Girl"
+    },
+    {
+      "name": "Tavishi",
+      "meaning": "Courageous",
+      "gender": "Girl"
+    },
+    {
+      "name": "Tejal",
+      "meaning": "Bright, Radiant",
+      "gender": "Girl"
+    },
+    {
+      "name": "Trishala",
+      "meaning": "Mother of Lord Mahavir",
+      "gender": "Girl"
+    },
+    {
+      "name": "Tanishi",
+      "meaning": "Goddess of beauty",
+      "gender": "Girl"
+    },
+    {
+      "name": "Taraangini",
+      "meaning": "A river of stars",
+      "gender": "Girl"
+    },
+    {
+      "name": "Tithiya",
+      "meaning": "Auspicious day",
+      "gender": "Girl"
+    },
+    {
+      "name": "Tishaara",
+      "meaning": "Morning star",
+      "gender": "Girl"
+    },
+    {
+      "name": "Tripti",
+      "meaning": "Satisfaction",
+      "gender": "Girl"
+    },
+    {
+      "name": "Tathya",
+      "meaning": "Truth",
+      "gender": "Girl"
+    },
+    {
+      "name": "Tavira",
+      "meaning": "Graceful and Strong",
+      "gender": "Girl"
+    },
+    {
+      "name": "Taruna",
+      "meaning": " Young, Youthful",
+      "gender": "Girl"
+    },
+    {
+      "name": "Talvi",
+      "meaning": "Rain",
+      "gender": "Girl"
+    },
+    {
+      "name": "Thaya",
+      "meaning": "Goddess of prosperity (Hindu)",
+      "gender": "Girl"
+    },
+    {
+      "name": "Tulsima",
+      "meaning": "Another name for the holy basil plant",
+      "gender": "Girl"
+    },
+    {
+      "name": "Taradevi",
+      "meaning": "Divine form of Tara",
+      "gender": "Girl"
+    },
+    {
+      "name": "Tishaani",
+      "meaning": "Morning dew",
+      "gender": "Girl"
+    },
+    {
+      "name": "Tashila",
+      "meaning": "Daughter of Lord Indra",
+      "gender": "Girl"
+    },
+    {
+      "name": "Trishika",
+      "meaning": "One who fulfills desires",
+      "gender": "Girl"
+    },
+    {
+      "name": "Tamira",
+      "meaning": "Flower in Tamang Language",
+      "gender": "Girl"
+    },
+    {
+      "name": "Tanayanti",
+      "meaning": "Daughter of the forest",
+      "gender": "Girl"
+    },
+    {
+      "name": "Urmila",
+      "meaning": "God's Bird, Enchantress",
+      "gender": "Girl"
+    },
+    {
+      "name": "Ulka",
+      "meaning": "Meteor, Fireball",
+      "gender": "Girl"
+    },
+    {
+      "name": "Urvi",
+      "meaning": "Earth or fertile land",
+      "gender": "Girl"
+    },
+    {
+      "name": "Uttama",
+      "meaning": "Excellent",
+      "gender": "Girl"
+    },
+    {
+      "name": "Upasana",
+      "meaning": "Worship, Devotion",
+      "gender": "Girl"
+    },
+    {
+      "name": "Unnati",
+      "meaning": "Progress",
+      "gender": "Girl"
+    },
+    {
+      "name": "Urvashi",
+      "meaning": "A celestial maiden, An Angel",
+      "gender": "Girl"
+    },
+    {
+      "name": "Upasna",
+      "meaning": "Worship",
+      "gender": "Girl"
+    },
+    {
+      "name": "Urmi",
+      "meaning": "Wave",
+      "gender": "Girl"
+    },
+    {
+      "name": "Utsavi",
+      "meaning": "Festival",
+      "gender": "Girl"
+    },
+    {
+      "name": "Ushasi",
+      "meaning": "New beginning,hope",
+      "gender": "Girl"
+    },
+    {
+      "name": "Uttara",
+      "meaning": "North, Better",
+      "gender": "Girl"
+    },
+    {
+      "name": "Urjaswini",
+      "meaning": "Energetic",
+      "gender": "Girl"
+    },
+    {
+      "name": "Ushma",
+      "meaning": "Warmth",
+      "gender": "Girl"
+    },
+    {
+      "name": "Unmadini",
+      "meaning": "madness, ecstasy",
+      "gender": "Girl"
+    },
+    {
+      "name": "Udyati",
+      "meaning": "Elevated",
+      "gender": "Girl"
+    },
+    {
+      "name": "Umika",
+      "meaning": "Goddess Parvati",
+      "gender": "Girl"
+    },
+    {
+      "name": "Utpala",
+      "meaning": "Lotus",
+      "gender": "Girl"
+    },
+    {
+      "name": "Ulupi",
+      "meaning": "With Lovely Hair",
+      "gender": "Girl"
+    },
+    {
+      "name": "Urshita",
+      "meaning": "Firm",
+      "gender": "Girl"
+    },
+    {
+      "name": "Ujasvini",
+      "meaning": "Inner Strength.",
+      "gender": "Girl"
+    },
+    {
+      "name": " Uttaradevi",
+      "meaning": "Goddess",
+      "gender": "Girl"
+    },
+    {
+      "name": "Ushasri",
+      "meaning": "The dawn of wealth and prosperity",
+      "gender": "Girl"
+    },
+    {
+      "name": "Urvipriya",
+      "meaning": "Beloved of the Earth",
+      "gender": "Girl"
+    },
+    {
+      "name": "Udayakirti",
+      "meaning": "Rising Fame",
+      "gender": "Girl"
+    },
+    {
+      "name": "Unnatishree",
+      "meaning": "Beautiful Progress",
+      "gender": "Girl"
+    },
+    {
+      "name": "Vimala",
+      "meaning": "Pure",
+      "gender": "Girl"
+    },
+    {
+      "name": "Vaishali",
+      "meaning": "Historical city",
+      "gender": "Girl"
+    },
+    {
+      "name": "Vidya",
+      "meaning": "Knowledge",
+      "gender": "Girl"
+    },
+    {
+      "name": "Vandana",
+      "meaning": "Adoration",
+      "gender": "Girl"
+    },
+    {
+      "name": "Vasudha",
+      "meaning": "Earth",
+      "gender": "Girl"
+    },
+    {
+      "name": "Vasundhara",
+      "meaning": "Earth",
+      "gender": "Girl"
+    },
+    {
+      "name": "Vrinda",
+      "meaning": "Tulsi (sacred basil)",
+      "gender": "Girl"
+    },
+    {
+      "name": "Vidula",
+      "meaning": "Moon",
+      "gender": "Girl"
+    },
+    {
+      "name": "Valli",
+      "meaning": "Creeper",
+      "gender": "Girl"
+    },
+    {
+      "name": "Vanita",
+      "meaning": "Woman",
+      "gender": "Girl"
+    },
+    {
+      "name": "Vasanti",
+      "meaning": "Spring",
+      "gender": "Girl"
+    },
+    {
+      "name": "Veda",
+      "meaning": "Sacred knowledge",
+      "gender": "Girl"
+    },
+    {
+      "name": "Varsha",
+      "meaning": "Rain",
+      "gender": "Girl"
+    },
+    {
+      "name": "Veeraja",
+      "meaning": "Goddess Parvati",
+      "gender": "Girl"
+    },
+    {
+      "name": "Vibha",
+      "meaning": "Radiance",
+      "gender": "Girl"
+    },
+    {
+      "name": "Vidisha",
+      "meaning": "A river",
+      "gender": "Girl"
+    },
+    {
+      "name": "Vinaya",
+      "meaning": "Modesty",
+      "gender": "Girl"
+    },
+    {
+      "name": "Vasudhi",
+      "meaning": "Earth",
+      "gender": "Girl"
+    },
+    {
+      "name": "Vayuna",
+      "meaning": "Air",
+      "gender": "Girl"
+    },
+    {
+      "name": "Viti",
+      "meaning": "Light",
+      "gender": "Girl"
+    },
+    {
+      "name": "Vidulika",
+      "meaning": "Moonlight",
+      "gender": "Girl"
+    },
+    {
+      "name": "Vidhisha",
+      "meaning": "Desire",
+      "gender": "Girl"
+    },
+    {
+      "name": "Vanya",
+      "meaning": "Wild",
+      "gender": "Girl"
+    },
+    {
+      "name": "Vimalaya",
+      "meaning": "Pure",
+      "gender": "Girl"
+    },
+    {
+      "name": "Vidhula",
+      "meaning": "Moonlight",
+      "gender": "Girl"
+    },
+    {
+      "name": "Vatsala",
+      "meaning": "Affectionate",
+      "gender": "Girl"
+    },
+    {
+      "name": "Vishruta",
+      "meaning": "Renowned",
+      "gender": "Girl"
+    },
+    {
+      "name": "Vibhuti",
+      "meaning": "Divine power",
+      "gender": "Girl"
+    },
+    {
+      "name": "Vitara",
+      "meaning": "Infinite wealth",
+      "gender": "Girl"
+    },
+    {
+      "name": "Vihara",
+      "meaning": "Recreation",
+      "gender": "Girl"
+    },
+    {
+      "name": "Vithika",
+      "meaning": "Pathway",
+      "gender": "Girl"
+    },
+    {
+      "name": "Vriddhi",
+      "meaning": "Growth",
+      "gender": "Girl"
+    },
+    {
+      "name": "Vivasha",
+      "meaning": "Moon",
+      "gender": "Girl"
+    },
+    {
+      "name": "Vibodha",
+      "meaning": "Wise",
+      "gender": "Girl"
+    },
+    {
+      "name": "Vasuvi",
+      "meaning": "Earth",
+      "gender": "Girl"
+    },
+    {
+      "name": "Varahi",
+      "meaning": "Goddess Durga",
+      "gender": "Girl"
+    },
+    {
+      "name": "Vritika",
+      "meaning": "Nature",
+      "gender": "Girl"
+    },
+    {
+      "name": "Vishaka",
+      "meaning": "Star",
+      "gender": "Girl"
+    },
+    {
+      "name": "Vidushi",
+      "meaning": "Learned woman",
+      "gender": "Girl"
+    },
+    {
+      "name": "Vanya",
+      "meaning": "Wild",
+      "gender": "Girl"
+    },
+    {
+      "name": "Vrishti",
+      "meaning": "Rain",
+      "gender": "Girl"
+    },
+    {
+      "name": "Vishira",
+      "meaning": "Beautiful",
+      "gender": "Girl"
+    },
+    {
+      "name": "Vasuda",
+      "meaning": "Earth",
+      "gender": "Girl"
+    },
+    {
+      "name": "Vahini",
+      "meaning": "Flowing",
+      "gender": "Girl"
+    },
+    {
+      "name": "Vasana",
+      "meaning": "Desire",
+      "gender": "Girl"
+    },
+    {
+      "name": "Vrindavan",
+      "meaning": "Forest of Tulsi",
+      "gender": "Girl"
+    },
+    {
+      "name": "Wanjala",
+      "meaning": "In Newari culture, next day after marriage, we visit at the temple of Ganesh with offering, That day we called WANJALA.",
+      "gender": "Girl"
+    },
+    {
+      "name": "Wina",
+      "meaning": "Goddess Lakshmi",
+      "gender": "Girl"
+    },
+    {
+      "name": "Wisha",
+      "meaning": "Hope",
+      "gender": "Girl"
+    },
+    {
+      "name": "Widisha",
+      "meaning": "Goddess Saraswati",
+      "gender": "Girl"
+    },
+    {
+      "name": "Wimisha",
+      "meaning": "Pure",
+      "gender": "Girl"
+    },
+    {
+      "name": "Wrida",
+      "meaning": "Goddess Saraswati",
+      "gender": "Girl"
+    },
+    {
+      "name": "Writi",
+      "meaning": "Soft",
+      "gender": "Girl"
+    },
+    {
+      "name": "Wrista",
+      "meaning": "Beautiful",
+      "gender": "Girl"
+    },
+    {
+      "name": "Wishika",
+      "meaning": "Goddess Lakshmi",
+      "gender": "Girl"
+    },
+    {
+      "name": "Washi",
+      "meaning": "Beautiful",
+      "gender": "Girl"
+    },
+    {
+      "name": "Wavina",
+      "meaning": "Goddess Saraswati",
+      "gender": "Girl"
+    },
+    {
+      "name": "Wrishti",
+      "meaning": "Creation",
+      "gender": "Girl"
+    },
+    {
+      "name": "Wiyona",
+      "meaning": "Goddess Lakshmi",
+      "gender": "Girl"
+    },
+    {
+      "name": "Wiyusha",
+      "meaning": "Goddess Lakshmi",
+      "gender": "Girl"
+    },
+    {
+      "name": "Winaisha",
+      "meaning": "Goddess Durga",
+      "gender": "Girl"
+    },
+    {
+      "name": "Wishwa",
+      "meaning": "The world",
+      "gender": "Girl"
+    },
+    {
+      "name": "Washiqa",
+      "meaning": "Charming",
+      "gender": "Girl"
+    },
+    {
+      "name": "Wridha",
+      "meaning": "Goddess Saraswati",
+      "gender": "Girl"
+    },
+    {
+      "name": "Winona",
+      "meaning": "First-born daughter",
+      "gender": "Girl"
+    },
+    {
+      "name": "Wishaal",
+      "meaning": "Hopeful",
+      "gender": "Girl"
+    },
+    {
+      "name": "Yashmita",
+      "meaning": "Famous",
+      "gender": "Girl"
+    },
+    {
+      "name": "Yachana",
+      "meaning": "Request",
+      "gender": "Girl"
+    },
+    {
+      "name": "Yathna",
+      "meaning": "Effort",
+      "gender": "Girl"
+    },
+    {
+      "name": "Yashika",
+      "meaning": "Success",
+      "gender": "Girl"
+    },
+    {
+      "name": "Yathisha",
+      "meaning": "Goddess Lakshmi",
+      "gender": "Girl"
+    },
+    {
+      "name": "Yashoda",
+      "meaning": "Mother of Lord Krishna",
+      "gender": "Girl"
+    },
+    {
+      "name": "Yastika",
+      "meaning": "Goddess Parvati",
+      "gender": "Girl"
+    },
+    {
+      "name": "Yasmin",
+      "meaning": "Jasmine flower",
+      "gender": "Girl"
+    },
+    {
+      "name": "Yonika",
+      "meaning": "Unique",
+      "gender": "Girl"
+    },
+    {
+      "name": "Yashna",
+      "meaning": "One who is always successful",
+      "gender": "Girl"
+    },
+    {
+      "name": "Yarisha",
+      "meaning": "Intelligent",
+      "gender": "Girl"
+    },
+    {
+      "name": "Yasmine",
+      "meaning": "Jasmine flower",
+      "gender": "Girl"
+    },
+    {
+      "name": "Yuvika",
+      "meaning": "Young girl",
+      "gender": "Girl"
+    },
+    {
+      "name": "Yuvati",
+      "meaning": "Young woman",
+      "gender": "Girl"
+    },
+    {
+      "name": "Yatika",
+      "meaning": "Goddess Parvati",
+      "gender": "Girl"
+    },
+    {
+      "name": "Yashasvi",
+      "meaning": "Successful",
+      "gender": "Girl"
+    },
+    {
+      "name": "Yuti",
+      "meaning": "Plan",
+      "gender": "Girl"
+    },
+    {
+      "name": "Yuthika",
+      "meaning": "Multitude of flowers",
+      "gender": "Girl"
+    },
+    {
+      "name": "Yashita",
+      "meaning": "Famous",
+      "gender": "Girl"
+    },
+    {
+      "name": "Yogita",
+      "meaning": "One who practices yoga",
+      "gender": "Girl"
+    },
+    {
+      "name": "Yuvanika",
+      "meaning": "Blossoming like a bud",
+      "gender": "Girl"
+    },
+    {
+      "name": "Yosha",
+      "meaning": "Woman of good fortune",
+      "gender": "Girl"
+    },
+    {
+      "name": "Yathira",
+      "meaning": "Goddess Saraswati",
+      "gender": "Girl"
+    },
+    {
+      "name": "Yashitha",
+      "meaning": "Successful, prosperous",
+      "gender": "Girl"
+    },
+    {
+      "name": "Yovita",
+      "meaning": "Young girl",
+      "gender": "Girl"
+    },
+    {
+      "name": "Yadhika",
+      "meaning": "Goddess Durga",
+      "gender": "Girl"
+    },
+    {
+      "name": "Zaafira",
+      "meaning": "Victorious; Successful",
+      "gender": "Girl"
+    },
+    {
+      "name": "Zalak",
+      "meaning": "Instant appearance",
+      "gender": "Girl"
+    },
+    {
+      "name": "Zarina",
+      "meaning": "The Gold One, Golden, Queen",
+      "gender": "Girl"
+    },
+    {
+      "name": "Zarna",
+      "meaning": "A small stream of sweet water",
+      "gender": "Girl"
+    },
+    {
+      "name": "Zaveri",
+      "meaning": "Devine",
+      "gender": "Girl"
+    },
+    {
+      "name": "Zeynap",
+      "meaning": "Name of Prophet Mohhamad's Child",
+      "gender": "Girl"
+    },
+    {
+      "name": "Zhaisri",
+      "meaning": "Victorious; Goddess of Victory",
+      "gender": "Girl"
+    },
+    {
+      "name": "Zhalak",
+      "meaning": "Glimpse; Spark; Sudden motion",
+      "gender": "Girl"
+    },
+    {
+      "name": "Zhanvi",
+      "meaning": "Ganga the river",
+      "gender": "Girl"
+    },
+    {
+      "name": "Zharna",
+      "meaning": "A Lake, Small Waterfalls",
+      "gender": "Girl"
+    },
+    {
+      "name": "Ziarah",
+      "meaning": "A Piece of Heart; Visitation",
+      "gender": "Girl"
+    },
+    {
+      "name": "Zilmil",
+      "meaning": "Shine",
+      "gender": "Girl"
+    },
+    {
+      "name": "Zinkal",
+      "meaning": "Sweet Voice; Innocent; Beautiful",
+      "gender": "Girl"
+    },
+    {
+      "name": "Zinnat",
+      "meaning": "Glamour",
+      "gender": "Girl"
+    },
+    {
+      "name": "Ziya",
+      "meaning": "Splendor; Light; Glow",
+      "gender": "Girl"
+    },
+    {
+      "name": "Ziyana",
+      "meaning": "Radiant, Blessing from Heaven",
+      "gender": "Girl"
+    },
+    {
+      "name": "Ziyanshi",
+      "meaning": "Source of Light; Radiance; Body",
+      "gender": "Girl"
+    },
+    {
+      "name": "Zohara",
+      "meaning": "Beautiful, Venus, Blooming",
+      "gender": "Girl"
+    },
+    {
+      "name": "Zuleika",
+      "meaning": "Brilliant, The Fair One",
+      "gender": "Girl"
+    }
+  ]
+}
